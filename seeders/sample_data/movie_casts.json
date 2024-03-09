@@ -1,0 +1,5504 @@
+[
+    {
+        "movieId": 42,
+        "castId": 303,
+        "isStar": true,
+        "characters": "Barry Allen"
+    },
+    {
+        "movieId": 42,
+        "castId": 707,
+        "isStar": true,
+        "characters": "Bruce Wayne"
+    },
+    {
+        "movieId": 42,
+        "castId": 859,
+        "isStar": true,
+        "characters": "Kara Zor-El"
+    },
+    {
+        "movieId": 42,
+        "castId": 712,
+        "isStar": false,
+        "characters": "General Zod"
+    },
+    {
+        "movieId": 42,
+        "castId": 833,
+        "isStar": false,
+        "characters": "Henry Allen"
+    },
+    {
+        "movieId": 42,
+        "castId": 646,
+        "isStar": false,
+        "characters": "Nora Allen"
+    },
+    {
+        "movieId": 42,
+        "castId": 580,
+        "isStar": false,
+        "characters": "Iris West"
+    },
+    {
+        "movieId": 42,
+        "castId": 459,
+        "isStar": false,
+        "characters": "Alfred Pennyworth"
+    },
+    {
+        "movieId": 42,
+        "castId": 79,
+        "isStar": false,
+        "characters": "Faora-Ul"
+    },
+    {
+        "movieId": 42,
+        "castId": 856,
+        "isStar": false,
+        "characters": "Patty"
+    },
+    {
+        "movieId": 42,
+        "castId": 841,
+        "isStar": false,
+        "characters": "Albert"
+    },
+    {
+        "movieId": 42,
+        "castId": 935,
+        "isStar": false,
+        "characters": "Thomas Curry"
+    },
+    {
+        "movieId": 42,
+        "castId": 854,
+        "isStar": false,
+        "characters": "David Singh"
+    },
+    {
+        "movieId": 42,
+        "castId": 867,
+        "isStar": false,
+        "characters": "Gary"
+    },
+    {
+        "movieId": 42,
+        "castId": 579,
+        "isStar": false,
+        "characters": "Sandwich Guy"
+    },
+    {
+        "movieId": 42,
+        "castId": 629,
+        "isStar": false,
+        "characters": "Al Falcone"
+    },
+    {
+        "movieId": 42,
+        "castId": 385,
+        "isStar": false,
+        "characters": "Kid Barry"
+    },
+    {
+        "movieId": 42,
+        "castId": 552,
+        "isStar": false,
+        "characters": "Henry's Lawyer"
+    },
+    {
+        "movieId": 17,
+        "castId": 176,
+        "isStar": true,
+        "characters": "Tyler Rake"
+    },
+    {
+        "movieId": 17,
+        "castId": 339,
+        "isStar": true,
+        "characters": "Nik Khan"
+    },
+    {
+        "movieId": 17,
+        "castId": 10,
+        "isStar": true,
+        "characters": "Yaz Khan"
+    },
+    {
+        "movieId": 17,
+        "castId": 965,
+        "isStar": false,
+        "characters": "Zurab Radiani"
+    },
+    {
+        "movieId": 17,
+        "castId": 241,
+        "isStar": false,
+        "characters": "Zurab Radiani (12 years old)"
+    },
+    {
+        "movieId": 17,
+        "castId": 964,
+        "isStar": false,
+        "characters": "Davit Radiani"
+    },
+    {
+        "movieId": 17,
+        "castId": 334,
+        "isStar": false,
+        "characters": "Davit Radiani (9 years old)"
+    },
+    {
+        "movieId": 17,
+        "castId": 949,
+        "isStar": false,
+        "characters": "Ketevan Radiani"
+    },
+    {
+        "movieId": 17,
+        "castId": 62,
+        "isStar": false,
+        "characters": "Sandro Radiani"
+    },
+    {
+        "movieId": 17,
+        "castId": 645,
+        "isStar": false,
+        "characters": "Nina Radiani"
+    },
+    {
+        "movieId": 17,
+        "castId": 663,
+        "isStar": false,
+        "characters": "Nina Radiani"
+    },
+    {
+        "movieId": 17,
+        "castId": 223,
+        "isStar": false,
+        "characters": "Avtandil"
+    },
+    {
+        "movieId": 17,
+        "castId": 239,
+        "isStar": false,
+        "characters": "Avtandil (20 years old)"
+    },
+    {
+        "movieId": 17,
+        "castId": 215,
+        "isStar": false,
+        "characters": "Konstantine"
+    },
+    {
+        "movieId": 17,
+        "castId": 390,
+        "isStar": false,
+        "characters": "Ivayne"
+    },
+    {
+        "movieId": 17,
+        "castId": 604,
+        "isStar": false,
+        "characters": "Vakhtang"
+    },
+    {
+        "movieId": 17,
+        "castId": 694,
+        "isStar": false,
+        "characters": "AKA"
+    },
+    {
+        "movieId": 17,
+        "castId": 332,
+        "isStar": false,
+        "characters": "Sergo"
+    },
+    {
+        "movieId": 35,
+        "castId": 879,
+        "isStar": true,
+        "characters": "Miles Morales"
+    },
+    {
+        "movieId": 35,
+        "castId": 355,
+        "isStar": true,
+        "characters": "Gwen Stacy"
+    },
+    {
+        "movieId": 35,
+        "castId": 137,
+        "isStar": true,
+        "characters": "Jeff Morales"
+    },
+    {
+        "movieId": 35,
+        "castId": 632,
+        "isStar": false,
+        "characters": "Rio Morales"
+    },
+    {
+        "movieId": 35,
+        "castId": 414,
+        "isStar": false,
+        "characters": "Peter B. Parker"
+    },
+    {
+        "movieId": 35,
+        "castId": 762,
+        "isStar": false,
+        "characters": "Miguel O'Hara"
+    },
+    {
+        "movieId": 35,
+        "castId": 438,
+        "isStar": false,
+        "characters": "Spot"
+    },
+    {
+        "movieId": 35,
+        "castId": 392,
+        "isStar": false,
+        "characters": "Jessica Drew"
+    },
+    {
+        "movieId": 35,
+        "castId": 217,
+        "isStar": false,
+        "characters": "Hobie Brown"
+    },
+    {
+        "movieId": 35,
+        "castId": 551,
+        "isStar": false,
+        "characters": "Pavitr Prabhakar"
+    },
+    {
+        "movieId": 35,
+        "castId": 885,
+        "isStar": false,
+        "characters": "George Stacy"
+    },
+    {
+        "movieId": 35,
+        "castId": 347,
+        "isStar": false,
+        "characters": "LYLA"
+    },
+    {
+        "movieId": 35,
+        "castId": 638,
+        "isStar": false,
+        "characters": "Uncle Aaron"
+    },
+    {
+        "movieId": 35,
+        "castId": 53,
+        "isStar": false,
+        "characters": "Margo Kess: Spider-Byte"
+    },
+    {
+        "movieId": 35,
+        "castId": 468,
+        "isStar": false,
+        "characters": "Miles G. Morales"
+    },
+    {
+        "movieId": 35,
+        "castId": 65,
+        "isStar": false,
+        "characters": "Ben Reilly"
+    },
+    {
+        "movieId": 35,
+        "castId": 404,
+        "isStar": false,
+        "characters": "Peter Parker"
+    },
+    {
+        "movieId": 35,
+        "castId": 797,
+        "isStar": false,
+        "characters": "Ms. Weber"
+    },
+    {
+        "movieId": 16,
+        "castId": 176,
+        "isStar": true,
+        "characters": "Tyler Rake"
+    },
+    {
+        "movieId": 16,
+        "castId": 146,
+        "isStar": true,
+        "characters": "Rake's Son"
+    },
+    {
+        "movieId": 16,
+        "castId": 845,
+        "isStar": true,
+        "characters": "Rake's Son"
+    },
+    {
+        "movieId": 16,
+        "castId": 840,
+        "isStar": false,
+        "characters": "Ovi Mahajan"
+    },
+    {
+        "movieId": 16,
+        "castId": 888,
+        "isStar": false,
+        "characters": "Sachin"
+    },
+    {
+        "movieId": 16,
+        "castId": 790,
+        "isStar": false,
+        "characters": "Arjun"
+    },
+    {
+        "movieId": 16,
+        "castId": 857,
+        "isStar": false,
+        "characters": "Cute Girl"
+    },
+    {
+        "movieId": 16,
+        "castId": 802,
+        "isStar": false,
+        "characters": "Saju"
+    },
+    {
+        "movieId": 16,
+        "castId": 7,
+        "isStar": false,
+        "characters": "Pari"
+    },
+    {
+        "movieId": 16,
+        "castId": 970,
+        "isStar": false,
+        "characters": "Cop #1 Candie's Cafe"
+    },
+    {
+        "movieId": 16,
+        "castId": 793,
+        "isStar": false,
+        "characters": "Cop #2 Candie's Cafe"
+    },
+    {
+        "movieId": 16,
+        "castId": 925,
+        "isStar": false,
+        "characters": "Prison Guard"
+    },
+    {
+        "movieId": 16,
+        "castId": 767,
+        "isStar": false,
+        "characters": "Ovi Mahajan Sr."
+    },
+    {
+        "movieId": 16,
+        "castId": 740,
+        "isStar": false,
+        "characters": "Neysa"
+    },
+    {
+        "movieId": 16,
+        "castId": 766,
+        "isStar": false,
+        "characters": "Aarav"
+    },
+    {
+        "movieId": 16,
+        "castId": 884,
+        "isStar": false,
+        "characters": "Saju's Housekeeper"
+    },
+    {
+        "movieId": 16,
+        "castId": 824,
+        "isStar": false,
+        "characters": "Rata"
+    },
+    {
+        "movieId": 16,
+        "castId": 987,
+        "isStar": false,
+        "characters": "Koen"
+    },
+    {
+        "movieId": 4,
+        "castId": 850,
+        "isStar": true,
+        "characters": "Jake"
+    },
+    {
+        "movieId": 4,
+        "castId": 1016,
+        "isStar": true,
+        "characters": "Neytiri"
+    },
+    {
+        "movieId": 4,
+        "castId": 890,
+        "isStar": true,
+        "characters": "Kiri"
+    },
+    {
+        "movieId": 4,
+        "castId": 912,
+        "isStar": false,
+        "characters": "Quaritch"
+    },
+    {
+        "movieId": 4,
+        "castId": 556,
+        "isStar": false,
+        "characters": "Ronal"
+    },
+    {
+        "movieId": 4,
+        "castId": 196,
+        "isStar": false,
+        "characters": "Tonowari"
+    },
+    {
+        "movieId": 4,
+        "castId": 485,
+        "isStar": false,
+        "characters": "Norm"
+    },
+    {
+        "movieId": 4,
+        "castId": 151,
+        "isStar": false,
+        "characters": "Mo'at"
+    },
+    {
+        "movieId": 4,
+        "castId": 272,
+        "isStar": false,
+        "characters": "General Ardmore"
+    },
+    {
+        "movieId": 4,
+        "castId": 134,
+        "isStar": false,
+        "characters": "Scoresby"
+    },
+    {
+        "movieId": 4,
+        "castId": 456,
+        "isStar": false,
+        "characters": "Dr. Garvin"
+    },
+    {
+        "movieId": 4,
+        "castId": 428,
+        "isStar": false,
+        "characters": "Neteyam"
+    },
+    {
+        "movieId": 4,
+        "castId": 140,
+        "isStar": false,
+        "characters": "Lo'ak"
+    },
+    {
+        "movieId": 4,
+        "castId": 967,
+        "isStar": false,
+        "characters": "Tuk"
+    },
+    {
+        "movieId": 4,
+        "castId": 397,
+        "isStar": false,
+        "characters": "Spider"
+    },
+    {
+        "movieId": 4,
+        "castId": 102,
+        "isStar": false,
+        "characters": "Tsireya"
+    },
+    {
+        "movieId": 4,
+        "castId": 307,
+        "isStar": false,
+        "characters": "Aonung"
+    },
+    {
+        "movieId": 4,
+        "castId": 267,
+        "isStar": false,
+        "characters": "Rotxo"
+    },
+    {
+        "movieId": 14,
+        "castId": 596,
+        "isStar": true,
+        "characters": "Ember"
+    },
+    {
+        "movieId": 14,
+        "castId": 641,
+        "isStar": true,
+        "characters": "Wade Ripple"
+    },
+    {
+        "movieId": 14,
+        "castId": 835,
+        "isStar": true,
+        "characters": "Bernie"
+    },
+    {
+        "movieId": 14,
+        "castId": 887,
+        "isStar": false,
+        "characters": "Cinder"
+    },
+    {
+        "movieId": 14,
+        "castId": 988,
+        "isStar": false,
+        "characters": "Gale"
+    },
+    {
+        "movieId": 14,
+        "castId": 163,
+        "isStar": false,
+        "characters": "Brook"
+    },
+    {
+        "movieId": 14,
+        "castId": 673,
+        "isStar": false,
+        "characters": "Clod"
+    },
+    {
+        "movieId": 14,
+        "castId": 836,
+        "isStar": false,
+        "characters": "Harold"
+    },
+    {
+        "movieId": 14,
+        "castId": 998,
+        "isStar": false,
+        "characters": "Flarrietta"
+    },
+    {
+        "movieId": 14,
+        "castId": 482,
+        "isStar": false,
+        "characters": "Fern"
+    },
+    {
+        "movieId": 14,
+        "castId": 689,
+        "isStar": false,
+        "characters": "Alan"
+    },
+    {
+        "movieId": 14,
+        "castId": 194,
+        "isStar": false,
+        "characters": "Little Kid Ember"
+    },
+    {
+        "movieId": 14,
+        "castId": 806,
+        "isStar": false,
+        "characters": "Big Kid Ember"
+    },
+    {
+        "movieId": 14,
+        "castId": 452,
+        "isStar": false,
+        "characters": "Sparkler Customer"
+    },
+    {
+        "movieId": 14,
+        "castId": 110,
+        "isStar": false,
+        "characters": "Wood Immigration Official"
+    },
+    {
+        "movieId": 14,
+        "castId": 511,
+        "isStar": false,
+        "characters": "Flarry"
+    },
+    {
+        "movieId": 14,
+        "castId": 32,
+        "isStar": false,
+        "characters": "Customer"
+    },
+    {
+        "movieId": 14,
+        "castId": 764,
+        "isStar": false,
+        "characters": "Doorman"
+    },
+    {
+        "movieId": 49,
+        "castId": 77,
+        "isStar": true,
+        "characters": "Noah Diaz"
+    },
+    {
+        "movieId": 49,
+        "castId": 256,
+        "isStar": true,
+        "characters": "Elena Wallace"
+    },
+    {
+        "movieId": 49,
+        "castId": 632,
+        "isStar": true,
+        "characters": "Breanna Diaz"
+    },
+    {
+        "movieId": 49,
+        "castId": 240,
+        "isStar": false,
+        "characters": "Kris Diaz"
+    },
+    {
+        "movieId": 49,
+        "castId": 950,
+        "isStar": false,
+        "characters": "Reek"
+    },
+    {
+        "movieId": 49,
+        "castId": 858,
+        "isStar": false,
+        "characters": "Jillian"
+    },
+    {
+        "movieId": 49,
+        "castId": 600,
+        "isStar": false,
+        "characters": "Ms. Greene"
+    },
+    {
+        "movieId": 49,
+        "castId": 315,
+        "isStar": false,
+        "characters": "Receptionist"
+    },
+    {
+        "movieId": 49,
+        "castId": 17,
+        "isStar": false,
+        "characters": "Bishop"
+    },
+    {
+        "movieId": 49,
+        "castId": 572,
+        "isStar": false,
+        "characters": "Hotel Security Guard"
+    },
+    {
+        "movieId": 49,
+        "castId": 718,
+        "isStar": false,
+        "characters": "NYC Police Officer"
+    },
+    {
+        "movieId": 49,
+        "castId": 968,
+        "isStar": false,
+        "characters": "NYC Police Officer"
+    },
+    {
+        "movieId": 49,
+        "castId": 870,
+        "isStar": false,
+        "characters": "Bridge Security Guard"
+    },
+    {
+        "movieId": 49,
+        "castId": 444,
+        "isStar": false,
+        "characters": "Museum Guard"
+    },
+    {
+        "movieId": 49,
+        "castId": 623,
+        "isStar": false,
+        "characters": "Amaru"
+    },
+    {
+        "movieId": 49,
+        "castId": 55,
+        "isStar": false,
+        "characters": "Amaru's Son"
+    },
+    {
+        "movieId": 49,
+        "castId": 855,
+        "isStar": false,
+        "characters": "Amaru's Wife"
+    },
+    {
+        "movieId": 49,
+        "castId": 1004,
+        "isStar": false,
+        "characters": "Amaru's Granddaughter"
+    },
+    {
+        "movieId": 36,
+        "castId": 879,
+        "isStar": true,
+        "characters": "Miles Morales"
+    },
+    {
+        "movieId": 36,
+        "castId": 414,
+        "isStar": true,
+        "characters": "Peter B. Parker"
+    },
+    {
+        "movieId": 36,
+        "castId": 355,
+        "isStar": true,
+        "characters": "Gwen Stacy"
+    },
+    {
+        "movieId": 36,
+        "castId": 638,
+        "isStar": false,
+        "characters": "Uncle Aaron"
+    },
+    {
+        "movieId": 36,
+        "castId": 137,
+        "isStar": false,
+        "characters": "Jefferson Davis"
+    },
+    {
+        "movieId": 36,
+        "castId": 611,
+        "isStar": false,
+        "characters": "Aunt May"
+    },
+    {
+        "movieId": 36,
+        "castId": 632,
+        "isStar": false,
+        "characters": "Rio Morales"
+    },
+    {
+        "movieId": 36,
+        "castId": 1018,
+        "isStar": false,
+        "characters": "Mary Jane"
+    },
+    {
+        "movieId": 36,
+        "castId": 501,
+        "isStar": false,
+        "characters": "Spider-Ham"
+    },
+    {
+        "movieId": 36,
+        "castId": 581,
+        "isStar": false,
+        "characters": "Peni Parker"
+    },
+    {
+        "movieId": 36,
+        "castId": 749,
+        "isStar": false,
+        "characters": "Spider-Man Noir"
+    },
+    {
+        "movieId": 36,
+        "castId": 557,
+        "isStar": false,
+        "characters": "Doc Ock"
+    },
+    {
+        "movieId": 36,
+        "castId": 608,
+        "isStar": false,
+        "characters": "Wilson Fisk"
+    },
+    {
+        "movieId": 36,
+        "castId": 179,
+        "isStar": false,
+        "characters": "Peter Parker"
+    },
+    {
+        "movieId": 36,
+        "castId": 736,
+        "isStar": false,
+        "characters": "Miss Calleros"
+    },
+    {
+        "movieId": 36,
+        "castId": 275,
+        "isStar": false,
+        "characters": "Brooklyn Visions Security Guard"
+    },
+    {
+        "movieId": 36,
+        "castId": 762,
+        "isStar": false,
+        "characters": "Interesting Person #1"
+    },
+    {
+        "movieId": 36,
+        "castId": 347,
+        "isStar": false,
+        "characters": "Interesting Person #2"
+    },
+    {
+        "movieId": 45,
+        "castId": 180,
+        "isStar": true,
+        "characters": "Mario"
+    },
+    {
+        "movieId": 45,
+        "castId": 82,
+        "isStar": true,
+        "characters": "Princess Peach"
+    },
+    {
+        "movieId": 45,
+        "castId": 171,
+        "isStar": true,
+        "characters": "Luigi"
+    },
+    {
+        "movieId": 45,
+        "castId": 396,
+        "isStar": false,
+        "characters": "Bowser"
+    },
+    {
+        "movieId": 45,
+        "castId": 575,
+        "isStar": false,
+        "characters": "Kamek"
+    },
+    {
+        "movieId": 45,
+        "castId": 577,
+        "isStar": false,
+        "characters": "Penguin King"
+    },
+    {
+        "movieId": 45,
+        "castId": 170,
+        "isStar": false,
+        "characters": "Mario's Dad"
+    },
+    {
+        "movieId": 45,
+        "castId": 874,
+        "isStar": false,
+        "characters": "Spike"
+    },
+    {
+        "movieId": 45,
+        "castId": 820,
+        "isStar": false,
+        "characters": "Uncle Tony"
+    },
+    {
+        "movieId": 45,
+        "castId": 493,
+        "isStar": false,
+        "characters": "Uncle Arthur"
+    },
+    {
+        "movieId": 45,
+        "castId": 466,
+        "isStar": false,
+        "characters": "Mario's Mom"
+    },
+    {
+        "movieId": 45,
+        "castId": 562,
+        "isStar": false,
+        "characters": "Toad"
+    },
+    {
+        "movieId": 45,
+        "castId": 290,
+        "isStar": false,
+        "characters": "Toad General"
+    },
+    {
+        "movieId": 45,
+        "castId": 318,
+        "isStar": false,
+        "characters": "Cranky Kong"
+    },
+    {
+        "movieId": 45,
+        "castId": 876,
+        "isStar": false,
+        "characters": "Donkey Kong"
+    },
+    {
+        "movieId": 45,
+        "castId": 539,
+        "isStar": false,
+        "characters": "Lumalee"
+    },
+    {
+        "movieId": 45,
+        "castId": 865,
+        "isStar": false,
+        "characters": "Koopa General"
+    },
+    {
+        "movieId": 45,
+        "castId": 155,
+        "isStar": false,
+        "characters": "Additional Voices"
+    },
+    {
+        "movieId": 7,
+        "castId": 145,
+        "isStar": true,
+        "characters": "Mimosa Vermillion"
+    },
+    {
+        "movieId": 7,
+        "castId": 944,
+        "isStar": true,
+        "characters": "Milly Maxwell"
+    },
+    {
+        "movieId": 7,
+        "castId": 917,
+        "isStar": true,
+        "characters": "Edward"
+    },
+    {
+        "movieId": 7,
+        "castId": 506,
+        "isStar": false,
+        "characters": "Zora Ideale"
+    },
+    {
+        "movieId": 7,
+        "castId": 75,
+        "isStar": false,
+        "characters": "Cob Portaport"
+    },
+    {
+        "movieId": 7,
+        "castId": 542,
+        "isStar": false,
+        "characters": "Luck Voltia"
+    },
+    {
+        "movieId": 7,
+        "castId": 804,
+        "isStar": false,
+        "characters": "Gimodero"
+    },
+    {
+        "movieId": 7,
+        "castId": 199,
+        "isStar": false,
+        "characters": "Charlotte Roselei"
+    },
+    {
+        "movieId": 7,
+        "castId": 543,
+        "isStar": false,
+        "characters": "Jack the Ripper"
+    },
+    {
+        "movieId": 7,
+        "castId": 109,
+        "isStar": false,
+        "characters": "Jester"
+    },
+    {
+        "movieId": 7,
+        "castId": 5,
+        "isStar": false,
+        "characters": "Marx Francois"
+    },
+    {
+        "movieId": 7,
+        "castId": 811,
+        "isStar": false,
+        "characters": "Nozel Silva"
+    },
+    {
+        "movieId": 7,
+        "castId": 910,
+        "isStar": false,
+        "characters": "Henry Legolant"
+    },
+    {
+        "movieId": 7,
+        "castId": 204,
+        "isStar": false,
+        "characters": "Narrator"
+    },
+    {
+        "movieId": 7,
+        "castId": 524,
+        "isStar": false,
+        "characters": "William Vangeance"
+    },
+    {
+        "movieId": 7,
+        "castId": 469,
+        "isStar": false,
+        "characters": "Noelle Silva"
+    },
+    {
+        "movieId": 7,
+        "castId": 649,
+        "isStar": false,
+        "characters": "Milly Maxwell"
+    },
+    {
+        "movieId": 7,
+        "castId": 642,
+        "isStar": false,
+        "characters": "Princia Funnybunny"
+    },
+    {
+        "movieId": 29,
+        "castId": 192,
+        "isStar": true,
+        "characters": "J. Robert Oppenheimer"
+    },
+    {
+        "movieId": 29,
+        "castId": 285,
+        "isStar": true,
+        "characters": "Kitty Oppenheimer"
+    },
+    {
+        "movieId": 29,
+        "castId": 677,
+        "isStar": true,
+        "characters": "Leslie Groves Jr."
+    },
+    {
+        "movieId": 29,
+        "castId": 828,
+        "isStar": false,
+        "characters": "Lewis Strauss"
+    },
+    {
+        "movieId": 29,
+        "castId": 525,
+        "isStar": false,
+        "characters": "Ernest Lawrence"
+    },
+    {
+        "movieId": 29,
+        "castId": 310,
+        "isStar": false,
+        "characters": "Jean Tatlock"
+    },
+    {
+        "movieId": 29,
+        "castId": 404,
+        "isStar": false,
+        "characters": "Richard Feynman"
+    },
+    {
+        "movieId": 29,
+        "castId": 326,
+        "isStar": false,
+        "characters": "Harry S. Truman"
+    },
+    {
+        "movieId": 29,
+        "castId": 350,
+        "isStar": false,
+        "characters": "Hans Bethe"
+    },
+    {
+        "movieId": 29,
+        "castId": 758,
+        "isStar": false,
+        "characters": "Lilli Hornig"
+    },
+    {
+        "movieId": 29,
+        "castId": 570,
+        "isStar": false,
+        "characters": "Niels Bohr"
+    },
+    {
+        "movieId": 29,
+        "castId": 801,
+        "isStar": false,
+        "characters": ""
+    },
+    {
+        "movieId": 29,
+        "castId": 25,
+        "isStar": false,
+        "characters": ""
+    },
+    {
+        "movieId": 29,
+        "castId": 227,
+        "isStar": false,
+        "characters": ""
+    },
+    {
+        "movieId": 29,
+        "castId": 214,
+        "isStar": false,
+        "characters": ""
+    },
+    {
+        "movieId": 29,
+        "castId": 231,
+        "isStar": false,
+        "characters": "Isidor Isaac Rabi"
+    },
+    {
+        "movieId": 29,
+        "castId": 159,
+        "isStar": false,
+        "characters": ""
+    },
+    {
+        "movieId": 29,
+        "castId": 34,
+        "isStar": false,
+        "characters": ""
+    },
+    {
+        "movieId": 19,
+        "castId": 461,
+        "isStar": true,
+        "characters": "Richard Monta\u00f1ez"
+    },
+    {
+        "movieId": 19,
+        "castId": 74,
+        "isStar": true,
+        "characters": "Judy Monta\u00f1ez"
+    },
+    {
+        "movieId": 19,
+        "castId": 283,
+        "isStar": true,
+        "characters": "Vacho Monta\u00f1ez"
+    },
+    {
+        "movieId": 19,
+        "castId": 974,
+        "isStar": false,
+        "characters": "Concha Monta\u00f1ez"
+    },
+    {
+        "movieId": 19,
+        "castId": 245,
+        "isStar": false,
+        "characters": "Clarence C. Baker"
+    },
+    {
+        "movieId": 19,
+        "castId": 962,
+        "isStar": false,
+        "characters": "Roger Enrico"
+    },
+    {
+        "movieId": 19,
+        "castId": 779,
+        "isStar": false,
+        "characters": "Abuelito"
+    },
+    {
+        "movieId": 19,
+        "castId": 130,
+        "isStar": false,
+        "characters": "Tony Romero"
+    },
+    {
+        "movieId": 19,
+        "castId": 474,
+        "isStar": false,
+        "characters": "Hector Morales"
+    },
+    {
+        "movieId": 19,
+        "castId": 679,
+        "isStar": false,
+        "characters": "Lonny Mason"
+    },
+    {
+        "movieId": 19,
+        "castId": 156,
+        "isStar": false,
+        "characters": "Young Richard"
+    },
+    {
+        "movieId": 19,
+        "castId": 382,
+        "isStar": false,
+        "characters": "Lucky Monta\u00f1ez"
+    },
+    {
+        "movieId": 19,
+        "castId": 157,
+        "isStar": false,
+        "characters": "Young Lucky Monta\u00f1ez"
+    },
+    {
+        "movieId": 19,
+        "castId": 138,
+        "isStar": false,
+        "characters": "Steven Monta\u00f1ez"
+    },
+    {
+        "movieId": 19,
+        "castId": 448,
+        "isStar": false,
+        "characters": "Young Judy"
+    },
+    {
+        "movieId": 19,
+        "castId": 304,
+        "isStar": false,
+        "characters": "Pablito"
+    },
+    {
+        "movieId": 19,
+        "castId": 651,
+        "isStar": false,
+        "characters": "Diego"
+    },
+    {
+        "movieId": 19,
+        "castId": 291,
+        "isStar": false,
+        "characters": "Nacho"
+    },
+    {
+        "movieId": 8,
+        "castId": 443,
+        "isStar": true,
+        "characters": "Mike"
+    },
+    {
+        "movieId": 8,
+        "castId": 336,
+        "isStar": true,
+        "characters": "Jim"
+    },
+    {
+        "movieId": 8,
+        "castId": 678,
+        "isStar": true,
+        "characters": "Doug"
+    },
+    {
+        "movieId": 8,
+        "castId": 566,
+        "isStar": false,
+        "characters": "Jasmine"
+    },
+    {
+        "movieId": 8,
+        "castId": 345,
+        "isStar": false,
+        "characters": "Young Businessman #1"
+    },
+    {
+        "movieId": 8,
+        "castId": 592,
+        "isStar": false,
+        "characters": "Shelly"
+    },
+    {
+        "movieId": 8,
+        "castId": 665,
+        "isStar": false,
+        "characters": "Rick Brock"
+    },
+    {
+        "movieId": 8,
+        "castId": 420,
+        "isStar": false,
+        "characters": "Callaghan Drummond"
+    },
+    {
+        "movieId": 8,
+        "castId": 320,
+        "isStar": false,
+        "characters": "Derek"
+    },
+    {
+        "movieId": 8,
+        "castId": 298,
+        "isStar": false,
+        "characters": "Ethan"
+    },
+    {
+        "movieId": 8,
+        "castId": 711,
+        "isStar": false,
+        "characters": "Michael"
+    },
+    {
+        "movieId": 8,
+        "castId": 918,
+        "isStar": false,
+        "characters": "Steve"
+    },
+    {
+        "movieId": 8,
+        "castId": 792,
+        "isStar": false,
+        "characters": "Pranay"
+    },
+    {
+        "movieId": 8,
+        "castId": 112,
+        "isStar": false,
+        "characters": "Allan"
+    },
+    {
+        "movieId": 8,
+        "castId": 476,
+        "isStar": false,
+        "characters": "Bank Manager"
+    },
+    {
+        "movieId": 8,
+        "castId": 593,
+        "isStar": false,
+        "characters": "Bell Assistant"
+    },
+    {
+        "movieId": 8,
+        "castId": 860,
+        "isStar": false,
+        "characters": "John Woodman"
+    },
+    {
+        "movieId": 8,
+        "castId": 909,
+        "isStar": false,
+        "characters": "Peggy"
+    },
+    {
+        "movieId": 11,
+        "castId": 568,
+        "isStar": true,
+        "characters": "Joseph"
+    },
+    {
+        "movieId": 11,
+        "castId": 851,
+        "isStar": true,
+        "characters": "Marie-Josephine"
+    },
+    {
+        "movieId": 11,
+        "castId": 625,
+        "isStar": true,
+        "characters": "Marie Antoinette"
+    },
+    {
+        "movieId": 11,
+        "castId": 834,
+        "isStar": false,
+        "characters": "Nanon"
+    },
+    {
+        "movieId": 11,
+        "castId": 672,
+        "isStar": false,
+        "characters": "Marquis De Montalembert"
+    },
+    {
+        "movieId": 11,
+        "castId": 30,
+        "isStar": false,
+        "characters": "Philippe"
+    },
+    {
+        "movieId": 11,
+        "castId": 726,
+        "isStar": false,
+        "characters": "La Guimard"
+    },
+    {
+        "movieId": 11,
+        "castId": 889,
+        "isStar": false,
+        "characters": "Madame De Genlis"
+    },
+    {
+        "movieId": 11,
+        "castId": 374,
+        "isStar": false,
+        "characters": "Christoph Gluck"
+    },
+    {
+        "movieId": 11,
+        "castId": 473,
+        "isStar": false,
+        "characters": "George Bologne"
+    },
+    {
+        "movieId": 11,
+        "castId": 108,
+        "isStar": false,
+        "characters": "La Boessiere"
+    },
+    {
+        "movieId": 11,
+        "castId": 27,
+        "isStar": false,
+        "characters": "Poncet"
+    },
+    {
+        "movieId": 11,
+        "castId": 667,
+        "isStar": false,
+        "characters": "Alexandre Picard"
+    },
+    {
+        "movieId": 11,
+        "castId": 847,
+        "isStar": false,
+        "characters": "King Louis XVI"
+    },
+    {
+        "movieId": 11,
+        "castId": 465,
+        "isStar": false,
+        "characters": "La Arnould"
+    },
+    {
+        "movieId": 11,
+        "castId": 937,
+        "isStar": false,
+        "characters": "La Levasseur"
+    },
+    {
+        "movieId": 11,
+        "castId": 523,
+        "isStar": false,
+        "characters": "Mozart"
+    },
+    {
+        "movieId": 11,
+        "castId": 973,
+        "isStar": false,
+        "characters": "Woman in the Front Row"
+    },
+    {
+        "movieId": 28,
+        "castId": 458,
+        "isStar": true,
+        "characters": "Maddie Barker"
+    },
+    {
+        "movieId": 28,
+        "castId": 60,
+        "isStar": true,
+        "characters": "Percy Becker"
+    },
+    {
+        "movieId": 28,
+        "castId": 590,
+        "isStar": true,
+        "characters": "Allison Becker"
+    },
+    {
+        "movieId": 28,
+        "castId": 681,
+        "isStar": false,
+        "characters": "Laird Becker"
+    },
+    {
+        "movieId": 28,
+        "castId": 736,
+        "isStar": false,
+        "characters": "Sara"
+    },
+    {
+        "movieId": 28,
+        "castId": 864,
+        "isStar": false,
+        "characters": "Jim"
+    },
+    {
+        "movieId": 28,
+        "castId": 269,
+        "isStar": false,
+        "characters": "Gary"
+    },
+    {
+        "movieId": 28,
+        "castId": 585,
+        "isStar": false,
+        "characters": "Jody"
+    },
+    {
+        "movieId": 28,
+        "castId": 365,
+        "isStar": false,
+        "characters": "Doug Kahn"
+    },
+    {
+        "movieId": 28,
+        "castId": 518,
+        "isStar": false,
+        "characters": "Crispin"
+    },
+    {
+        "movieId": 28,
+        "castId": 51,
+        "isStar": false,
+        "characters": "Natalie"
+    },
+    {
+        "movieId": 28,
+        "castId": 48,
+        "isStar": false,
+        "characters": "Fern"
+    },
+    {
+        "movieId": 28,
+        "castId": 796,
+        "isStar": false,
+        "characters": "Travis"
+    },
+    {
+        "movieId": 28,
+        "castId": 686,
+        "isStar": false,
+        "characters": "Hot Guy from Bar"
+    },
+    {
+        "movieId": 28,
+        "castId": 1013,
+        "isStar": false,
+        "characters": "Gabe Sawyer, Surfing Lawyer"
+    },
+    {
+        "movieId": 28,
+        "castId": 636,
+        "isStar": false,
+        "characters": "Melanie"
+    },
+    {
+        "movieId": 28,
+        "castId": 182,
+        "isStar": false,
+        "characters": "Gorgeous Italian Guy"
+    },
+    {
+        "movieId": 28,
+        "castId": 680,
+        "isStar": false,
+        "characters": "Irate Bar Customer"
+    },
+    {
+        "movieId": 3,
+        "castId": 438,
+        "isStar": true,
+        "characters": "Augie Steenbeck"
+    },
+    {
+        "movieId": 3,
+        "castId": 861,
+        "isStar": true,
+        "characters": "Midge Campbell"
+    },
+    {
+        "movieId": 3,
+        "castId": 956,
+        "isStar": true,
+        "characters": "Stanley Zak"
+    },
+    {
+        "movieId": 3,
+        "castId": 455,
+        "isStar": false,
+        "characters": "General Gibson"
+    },
+    {
+        "movieId": 3,
+        "castId": 143,
+        "isStar": false,
+        "characters": "Host"
+    },
+    {
+        "movieId": 3,
+        "castId": 274,
+        "isStar": false,
+        "characters": "Conrad Earp"
+    },
+    {
+        "movieId": 3,
+        "castId": 415,
+        "isStar": false,
+        "characters": "Woodrow"
+    },
+    {
+        "movieId": 3,
+        "castId": 342,
+        "isStar": false,
+        "characters": "Dinah"
+    },
+    {
+        "movieId": 3,
+        "castId": 692,
+        "isStar": false,
+        "characters": "June"
+    },
+    {
+        "movieId": 3,
+        "castId": 842,
+        "isStar": false,
+        "characters": "Montana"
+    },
+    {
+        "movieId": 3,
+        "castId": 378,
+        "isStar": false,
+        "characters": "Sandy Borden"
+    },
+    {
+        "movieId": 3,
+        "castId": 919,
+        "isStar": false,
+        "characters": "Roger Cho"
+    },
+    {
+        "movieId": 3,
+        "castId": 608,
+        "isStar": false,
+        "characters": "J. J. Kellogg"
+    },
+    {
+        "movieId": 3,
+        "castId": 87,
+        "isStar": false,
+        "characters": "Clifford"
+    },
+    {
+        "movieId": 3,
+        "castId": 299,
+        "isStar": false,
+        "characters": "Ricky"
+    },
+    {
+        "movieId": 3,
+        "castId": 899,
+        "isStar": false,
+        "characters": "Shelly"
+    },
+    {
+        "movieId": 3,
+        "castId": 280,
+        "isStar": false,
+        "characters": "Andromeda"
+    },
+    {
+        "movieId": 3,
+        "castId": 343,
+        "isStar": false,
+        "characters": "Pandora"
+    },
+    {
+        "movieId": 5,
+        "castId": 644,
+        "isStar": true,
+        "characters": "Barbie"
+    },
+    {
+        "movieId": 5,
+        "castId": 582,
+        "isStar": true,
+        "characters": "Ken"
+    },
+    {
+        "movieId": 5,
+        "castId": 844,
+        "isStar": true,
+        "characters": "Ken"
+    },
+    {
+        "movieId": 5,
+        "castId": 287,
+        "isStar": false,
+        "characters": "Barbie"
+    },
+    {
+        "movieId": 5,
+        "castId": 361,
+        "isStar": false,
+        "characters": "Barbie"
+    },
+    {
+        "movieId": 5,
+        "castId": 86,
+        "isStar": false,
+        "characters": "Sasha"
+    },
+    {
+        "movieId": 5,
+        "castId": 369,
+        "isStar": false,
+        "characters": "Narrator"
+    },
+    {
+        "movieId": 5,
+        "castId": 991,
+        "isStar": false,
+        "characters": "Mattel CEO"
+    },
+    {
+        "movieId": 5,
+        "castId": 489,
+        "isStar": false,
+        "characters": "Ken"
+    },
+    {
+        "movieId": 5,
+        "castId": 703,
+        "isStar": false,
+        "characters": "Allan"
+    },
+    {
+        "movieId": 5,
+        "castId": 748,
+        "isStar": false,
+        "characters": "Barbie"
+    },
+    {
+        "movieId": 5,
+        "castId": 895,
+        "isStar": false,
+        "characters": "Ken"
+    },
+    {
+        "movieId": 5,
+        "castId": 822,
+        "isStar": false,
+        "characters": "Barbie"
+    },
+    {
+        "movieId": 5,
+        "castId": 554,
+        "isStar": false,
+        "characters": "Barbie"
+    },
+    {
+        "movieId": 5,
+        "castId": 809,
+        "isStar": false,
+        "characters": ""
+    },
+    {
+        "movieId": 5,
+        "castId": 54,
+        "isStar": false,
+        "characters": "Gloria"
+    },
+    {
+        "movieId": 5,
+        "castId": 39,
+        "isStar": false,
+        "characters": "Barbie"
+    },
+    {
+        "movieId": 5,
+        "castId": 266,
+        "isStar": false,
+        "characters": "Barbie"
+    },
+    {
+        "movieId": 24,
+        "castId": 560,
+        "isStar": true,
+        "characters": "John Wick"
+    },
+    {
+        "movieId": 24,
+        "castId": 594,
+        "isStar": true,
+        "characters": "Bowery King"
+    },
+    {
+        "movieId": 24,
+        "castId": 331,
+        "isStar": true,
+        "characters": "The Elder"
+    },
+    {
+        "movieId": 24,
+        "castId": 587,
+        "isStar": false,
+        "characters": "Charon"
+    },
+    {
+        "movieId": 24,
+        "castId": 193,
+        "isStar": false,
+        "characters": "Harbinger"
+    },
+    {
+        "movieId": 24,
+        "castId": 386,
+        "isStar": false,
+        "characters": "Winston"
+    },
+    {
+        "movieId": 24,
+        "castId": 660,
+        "isStar": false,
+        "characters": "Chidi"
+    },
+    {
+        "movieId": 24,
+        "castId": 120,
+        "isStar": false,
+        "characters": "Marquis"
+    },
+    {
+        "movieId": 24,
+        "castId": 261,
+        "isStar": false,
+        "characters": "Caine"
+    },
+    {
+        "movieId": 24,
+        "castId": 18,
+        "isStar": false,
+        "characters": "Mia"
+    },
+    {
+        "movieId": 24,
+        "castId": 377,
+        "isStar": false,
+        "characters": "Shimazu"
+    },
+    {
+        "movieId": 24,
+        "castId": 880,
+        "isStar": false,
+        "characters": "Tracker"
+    },
+    {
+        "movieId": 24,
+        "castId": 819,
+        "isStar": false,
+        "characters": "Akira"
+    },
+    {
+        "movieId": 24,
+        "castId": 1006,
+        "isStar": false,
+        "characters": "Sumo #1"
+    },
+    {
+        "movieId": 24,
+        "castId": 376,
+        "isStar": false,
+        "characters": "Sumo #2"
+    },
+    {
+        "movieId": 24,
+        "castId": 208,
+        "isStar": false,
+        "characters": "Daiki"
+    },
+    {
+        "movieId": 24,
+        "castId": 535,
+        "isStar": false,
+        "characters": "Operator"
+    },
+    {
+        "movieId": 24,
+        "castId": 724,
+        "isStar": false,
+        "characters": "Operator"
+    },
+    {
+        "movieId": 18,
+        "castId": 977,
+        "isStar": true,
+        "characters": "Dominic Toretto"
+    },
+    {
+        "movieId": 18,
+        "castId": 716,
+        "isStar": true,
+        "characters": "Letty"
+    },
+    {
+        "movieId": 18,
+        "castId": 439,
+        "isStar": true,
+        "characters": "Shaw"
+    },
+    {
+        "movieId": 18,
+        "castId": 520,
+        "isStar": false,
+        "characters": "Mia"
+    },
+    {
+        "movieId": 18,
+        "castId": 969,
+        "isStar": false,
+        "characters": "Roman"
+    },
+    {
+        "movieId": 18,
+        "castId": 627,
+        "isStar": false,
+        "characters": "Tej"
+    },
+    {
+        "movieId": 18,
+        "castId": 738,
+        "isStar": false,
+        "characters": "Ramsey"
+    },
+    {
+        "movieId": 18,
+        "castId": 172,
+        "isStar": false,
+        "characters": "Cipher"
+    },
+    {
+        "movieId": 18,
+        "castId": 489,
+        "isStar": false,
+        "characters": "Jakob"
+    },
+    {
+        "movieId": 18,
+        "castId": 922,
+        "isStar": false,
+        "characters": "Han"
+    },
+    {
+        "movieId": 18,
+        "castId": 369,
+        "isStar": false,
+        "characters": "Queenie"
+    },
+    {
+        "movieId": 18,
+        "castId": 139,
+        "isStar": false,
+        "characters": "Tess"
+    },
+    {
+        "movieId": 18,
+        "castId": 863,
+        "isStar": false,
+        "characters": "Little Nobody"
+    },
+    {
+        "movieId": 18,
+        "castId": 435,
+        "isStar": false,
+        "characters": "Dante"
+    },
+    {
+        "movieId": 18,
+        "castId": 22,
+        "isStar": false,
+        "characters": "Aimes"
+    },
+    {
+        "movieId": 18,
+        "castId": 628,
+        "isStar": false,
+        "characters": "Diogo"
+    },
+    {
+        "movieId": 18,
+        "castId": 218,
+        "isStar": false,
+        "characters": "Isabel"
+    },
+    {
+        "movieId": 18,
+        "castId": 601,
+        "isStar": false,
+        "characters": "Little Brian"
+    },
+    {
+        "movieId": 22,
+        "castId": 323,
+        "isStar": true,
+        "characters": "Rachel Stone"
+    },
+    {
+        "movieId": 22,
+        "castId": 427,
+        "isStar": true,
+        "characters": "Parker"
+    },
+    {
+        "movieId": 22,
+        "castId": 690,
+        "isStar": true,
+        "characters": ""
+    },
+    {
+        "movieId": 22,
+        "castId": 901,
+        "isStar": false,
+        "characters": ""
+    },
+    {
+        "movieId": 22,
+        "castId": 44,
+        "isStar": false,
+        "characters": "Keya Dhawan"
+    },
+    {
+        "movieId": 22,
+        "castId": 475,
+        "isStar": false,
+        "characters": ""
+    },
+    {
+        "movieId": 22,
+        "castId": 83,
+        "isStar": false,
+        "characters": "Ivo"
+    },
+    {
+        "movieId": 22,
+        "castId": 774,
+        "isStar": false,
+        "characters": ""
+    },
+    {
+        "movieId": 22,
+        "castId": 289,
+        "isStar": false,
+        "characters": "Mulvaney"
+    },
+    {
+        "movieId": 22,
+        "castId": 507,
+        "isStar": false,
+        "characters": ""
+    },
+    {
+        "movieId": 22,
+        "castId": 121,
+        "isStar": false,
+        "characters": "Goon 1"
+    },
+    {
+        "movieId": 22,
+        "castId": 63,
+        "isStar": false,
+        "characters": "Armed Response Officer"
+    },
+    {
+        "movieId": 22,
+        "castId": 43,
+        "isStar": false,
+        "characters": "Agent CIA"
+    },
+    {
+        "movieId": 22,
+        "castId": 788,
+        "isStar": false,
+        "characters": "Gambler"
+    },
+    {
+        "movieId": 22,
+        "castId": 733,
+        "isStar": false,
+        "characters": "Upper class Vip casino party guest"
+    },
+    {
+        "movieId": 22,
+        "castId": 547,
+        "isStar": false,
+        "characters": "Leifur"
+    },
+    {
+        "movieId": 22,
+        "castId": 371,
+        "isStar": false,
+        "characters": "Driver"
+    },
+    {
+        "movieId": 22,
+        "castId": 250,
+        "isStar": false,
+        "characters": "Six Of Hearts (Klara)"
+    },
+    {
+        "movieId": 26,
+        "castId": 602,
+        "isStar": true,
+        "characters": "Ernest Burkhart"
+    },
+    {
+        "movieId": 26,
+        "castId": 827,
+        "isStar": true,
+        "characters": "William Hale"
+    },
+    {
+        "movieId": 26,
+        "castId": 609,
+        "isStar": true,
+        "characters": "Mollie Burkhart"
+    },
+    {
+        "movieId": 26,
+        "castId": 462,
+        "isStar": false,
+        "characters": "Tom White"
+    },
+    {
+        "movieId": 26,
+        "castId": 930,
+        "isStar": false,
+        "characters": "Lizzie Q"
+    },
+    {
+        "movieId": 26,
+        "castId": 499,
+        "isStar": false,
+        "characters": "Prosecutor Leaward"
+    },
+    {
+        "movieId": 26,
+        "castId": 135,
+        "isStar": false,
+        "characters": "W.S. Hamilton"
+    },
+    {
+        "movieId": 26,
+        "castId": 153,
+        "isStar": false,
+        "characters": "Anna Kyle Brown"
+    },
+    {
+        "movieId": 26,
+        "castId": 430,
+        "isStar": false,
+        "characters": "Rita"
+    },
+    {
+        "movieId": 26,
+        "castId": 471,
+        "isStar": false,
+        "characters": "Minnie"
+    },
+    {
+        "movieId": 26,
+        "castId": 993,
+        "isStar": false,
+        "characters": "Henry Roan"
+    },
+    {
+        "movieId": 26,
+        "castId": 434,
+        "isStar": false,
+        "characters": "Bill Smith"
+    },
+    {
+        "movieId": 26,
+        "castId": 866,
+        "isStar": false,
+        "characters": "Bryan Burkhart"
+    },
+    {
+        "movieId": 26,
+        "castId": 618,
+        "isStar": false,
+        "characters": "Kelsie Morrison"
+    },
+    {
+        "movieId": 26,
+        "castId": 921,
+        "isStar": false,
+        "characters": "Henry Grammer"
+    },
+    {
+        "movieId": 26,
+        "castId": 931,
+        "isStar": false,
+        "characters": "John Wren"
+    },
+    {
+        "movieId": 26,
+        "castId": 769,
+        "isStar": false,
+        "characters": "John Burger"
+    },
+    {
+        "movieId": 26,
+        "castId": 700,
+        "isStar": false,
+        "characters": "Frank Smith"
+    },
+    {
+        "movieId": 33,
+        "castId": 1011,
+        "isStar": true,
+        "characters": "Shazam"
+    },
+    {
+        "movieId": 33,
+        "castId": 93,
+        "isStar": true,
+        "characters": "Billy Batson"
+    },
+    {
+        "movieId": 33,
+        "castId": 400,
+        "isStar": true,
+        "characters": "Freddy Freeman"
+    },
+    {
+        "movieId": 33,
+        "castId": 798,
+        "isStar": false,
+        "characters": "Anthea"
+    },
+    {
+        "movieId": 33,
+        "castId": 11,
+        "isStar": false,
+        "characters": "Super Hero Freddy"
+    },
+    {
+        "movieId": 33,
+        "castId": 838,
+        "isStar": false,
+        "characters": "Super Hero Eugene"
+    },
+    {
+        "movieId": 33,
+        "castId": 206,
+        "isStar": false,
+        "characters": "Super Hero Pedro"
+    },
+    {
+        "movieId": 33,
+        "castId": 341,
+        "isStar": false,
+        "characters": "Mary Bromfield"
+    },
+    {
+        "movieId": 33,
+        "castId": 693,
+        "isStar": false,
+        "characters": "Super Hero Darla"
+    },
+    {
+        "movieId": 33,
+        "castId": 626,
+        "isStar": false,
+        "characters": "Kalypso"
+    },
+    {
+        "movieId": 33,
+        "castId": 254,
+        "isStar": false,
+        "characters": "Wizard"
+    },
+    {
+        "movieId": 33,
+        "castId": 369,
+        "isStar": false,
+        "characters": "Hespera"
+    },
+    {
+        "movieId": 33,
+        "castId": 305,
+        "isStar": false,
+        "characters": "Darla Dudley"
+    },
+    {
+        "movieId": 33,
+        "castId": 384,
+        "isStar": false,
+        "characters": "Eugene Choi"
+    },
+    {
+        "movieId": 33,
+        "castId": 529,
+        "isStar": false,
+        "characters": "Pedro Pe\u00f1a"
+    },
+    {
+        "movieId": 33,
+        "castId": 664,
+        "isStar": false,
+        "characters": "Rosa Vasquez"
+    },
+    {
+        "movieId": 33,
+        "castId": 201,
+        "isStar": false,
+        "characters": "Victor Vasquez"
+    },
+    {
+        "movieId": 33,
+        "castId": 823,
+        "isStar": false,
+        "characters": "Docent"
+    },
+    {
+        "movieId": 43,
+        "castId": 356,
+        "isStar": true,
+        "characters": "Ariel"
+    },
+    {
+        "movieId": 43,
+        "castId": 509,
+        "isStar": true,
+        "characters": "Eric"
+    },
+    {
+        "movieId": 43,
+        "castId": 696,
+        "isStar": true,
+        "characters": "Ursula"
+    },
+    {
+        "movieId": 43,
+        "castId": 441,
+        "isStar": false,
+        "characters": "King Triton"
+    },
+    {
+        "movieId": 43,
+        "castId": 756,
+        "isStar": false,
+        "characters": "The Queen"
+    },
+    {
+        "movieId": 43,
+        "castId": 89,
+        "isStar": false,
+        "characters": "Sir Grimsby"
+    },
+    {
+        "movieId": 43,
+        "castId": 225,
+        "isStar": false,
+        "characters": "Sebastian"
+    },
+    {
+        "movieId": 43,
+        "castId": 409,
+        "isStar": false,
+        "characters": "Flounder"
+    },
+    {
+        "movieId": 43,
+        "castId": 99,
+        "isStar": false,
+        "characters": "Scuttle"
+    },
+    {
+        "movieId": 43,
+        "castId": 464,
+        "isStar": false,
+        "characters": "Vanessa"
+    },
+    {
+        "movieId": 43,
+        "castId": 671,
+        "isStar": false,
+        "characters": "Lashana"
+    },
+    {
+        "movieId": 43,
+        "castId": 286,
+        "isStar": false,
+        "characters": "Rosa"
+    },
+    {
+        "movieId": 43,
+        "castId": 189,
+        "isStar": false,
+        "characters": "Hawkins"
+    },
+    {
+        "movieId": 43,
+        "castId": 492,
+        "isStar": false,
+        "characters": "Mulligan"
+    },
+    {
+        "movieId": 43,
+        "castId": 682,
+        "isStar": false,
+        "characters": "Cabin Boy"
+    },
+    {
+        "movieId": 43,
+        "castId": 531,
+        "isStar": false,
+        "characters": "Joshua"
+    },
+    {
+        "movieId": 43,
+        "castId": 617,
+        "isStar": false,
+        "characters": "Perla"
+    },
+    {
+        "movieId": 43,
+        "castId": 893,
+        "isStar": false,
+        "characters": "Indira"
+    },
+    {
+        "movieId": 20,
+        "castId": 982,
+        "isStar": true,
+        "characters": "Flaxy Martin"
+    },
+    {
+        "movieId": 20,
+        "castId": 1012,
+        "isStar": true,
+        "characters": "Walt Colby"
+    },
+    {
+        "movieId": 20,
+        "castId": 263,
+        "isStar": true,
+        "characters": "Nora Carson"
+    },
+    {
+        "movieId": 20,
+        "castId": 955,
+        "isStar": false,
+        "characters": "Sam Malko"
+    },
+    {
+        "movieId": 20,
+        "castId": 370,
+        "isStar": false,
+        "characters": "Peggy Farrar"
+    },
+    {
+        "movieId": 20,
+        "castId": 265,
+        "isStar": false,
+        "characters": "Hap Richie"
+    },
+    {
+        "movieId": 20,
+        "castId": 279,
+        "isStar": false,
+        "characters": "Roper"
+    },
+    {
+        "movieId": 20,
+        "castId": 264,
+        "isStar": false,
+        "characters": "Max"
+    },
+    {
+        "movieId": 20,
+        "castId": 731,
+        "isStar": false,
+        "characters": "Joe"
+    },
+    {
+        "movieId": 20,
+        "castId": 595,
+        "isStar": false,
+        "characters": "Tenement Resident"
+    },
+    {
+        "movieId": 20,
+        "castId": 653,
+        "isStar": false,
+        "characters": "Nora's Neighbor"
+    },
+    {
+        "movieId": 20,
+        "castId": 773,
+        "isStar": false,
+        "characters": "Policeman with Witness"
+    },
+    {
+        "movieId": 20,
+        "castId": 398,
+        "isStar": false,
+        "characters": "Police Dispatcher"
+    },
+    {
+        "movieId": 20,
+        "castId": 271,
+        "isStar": false,
+        "characters": "State Trooper"
+    },
+    {
+        "movieId": 20,
+        "castId": 495,
+        "isStar": false,
+        "characters": "Judge Edward R. McVey"
+    },
+    {
+        "movieId": 20,
+        "castId": 203,
+        "isStar": false,
+        "characters": "George"
+    },
+    {
+        "movieId": 20,
+        "castId": 497,
+        "isStar": false,
+        "characters": "Fred Banford"
+    },
+    {
+        "movieId": 20,
+        "castId": 270,
+        "isStar": false,
+        "characters": "Detective with Nora"
+    },
+    {
+        "movieId": 32,
+        "castId": 619,
+        "isStar": true,
+        "characters": "Barney Page"
+    },
+    {
+        "movieId": 32,
+        "castId": 477,
+        "isStar": true,
+        "characters": "Sheila Page"
+    },
+    {
+        "movieId": 32,
+        "castId": 981,
+        "isStar": true,
+        "characters": "Paula Costello"
+    },
+    {
+        "movieId": 32,
+        "castId": 954,
+        "isStar": false,
+        "characters": "John Friday"
+    },
+    {
+        "movieId": 32,
+        "castId": 812,
+        "isStar": false,
+        "characters": "William Williams, the Poet"
+    },
+    {
+        "movieId": 32,
+        "castId": 737,
+        "isStar": false,
+        "characters": "Eloise Shaw"
+    },
+    {
+        "movieId": 32,
+        "castId": 114,
+        "isStar": false,
+        "characters": "Bess Michaels"
+    },
+    {
+        "movieId": 32,
+        "castId": 387,
+        "isStar": false,
+        "characters": "Mattie"
+    },
+    {
+        "movieId": 32,
+        "castId": 488,
+        "isStar": false,
+        "characters": "Party Guest"
+    },
+    {
+        "movieId": 32,
+        "castId": 561,
+        "isStar": false,
+        "characters": "Delivery Boy"
+    },
+    {
+        "movieId": 32,
+        "castId": 799,
+        "isStar": false,
+        "characters": "New Year's Eve Reveler"
+    },
+    {
+        "movieId": 32,
+        "castId": 451,
+        "isStar": false,
+        "characters": "Tony"
+    },
+    {
+        "movieId": 32,
+        "castId": 9,
+        "isStar": false,
+        "characters": "Peanut Vendor"
+    },
+    {
+        "movieId": 32,
+        "castId": 494,
+        "isStar": false,
+        "characters": "Ricardo"
+    },
+    {
+        "movieId": 32,
+        "castId": 252,
+        "isStar": false,
+        "characters": "Party Guest"
+    },
+    {
+        "movieId": 32,
+        "castId": 41,
+        "isStar": false,
+        "characters": "Attendant"
+    },
+    {
+        "movieId": 32,
+        "castId": 607,
+        "isStar": false,
+        "characters": "Ship Steward"
+    },
+    {
+        "movieId": 32,
+        "castId": 771,
+        "isStar": false,
+        "characters": "Virgil"
+    },
+    {
+        "movieId": 37,
+        "castId": 994,
+        "isStar": true,
+        "characters": "Joe Gillis"
+    },
+    {
+        "movieId": 37,
+        "castId": 338,
+        "isStar": true,
+        "characters": "Norma Desmond"
+    },
+    {
+        "movieId": 37,
+        "castId": 293,
+        "isStar": true,
+        "characters": "Max Von Mayerling"
+    },
+    {
+        "movieId": 37,
+        "castId": 735,
+        "isStar": false,
+        "characters": "Betty Schaefer"
+    },
+    {
+        "movieId": 37,
+        "castId": 319,
+        "isStar": false,
+        "characters": "Sheldrake"
+    },
+    {
+        "movieId": 37,
+        "castId": 616,
+        "isStar": false,
+        "characters": "Morino"
+    },
+    {
+        "movieId": 37,
+        "castId": 406,
+        "isStar": false,
+        "characters": "Artie Green"
+    },
+    {
+        "movieId": 37,
+        "castId": 316,
+        "isStar": false,
+        "characters": "Undertaker"
+    },
+    {
+        "movieId": 37,
+        "castId": 588,
+        "isStar": false,
+        "characters": "1st Finance Man"
+    },
+    {
+        "movieId": 37,
+        "castId": 169,
+        "isStar": false,
+        "characters": "2nd Finance Man"
+    },
+    {
+        "movieId": 37,
+        "castId": 164,
+        "isStar": false,
+        "characters": "Cecil B. DeMille"
+    },
+    {
+        "movieId": 37,
+        "castId": 367,
+        "isStar": false,
+        "characters": "Hedda Hopper"
+    },
+    {
+        "movieId": 37,
+        "castId": 148,
+        "isStar": false,
+        "characters": "Buster Keaton"
+    },
+    {
+        "movieId": 37,
+        "castId": 70,
+        "isStar": false,
+        "characters": "Anna Q. Nilsson"
+    },
+    {
+        "movieId": 37,
+        "castId": 353,
+        "isStar": false,
+        "characters": "H. B. Warner"
+    },
+    {
+        "movieId": 37,
+        "castId": 805,
+        "isStar": false,
+        "characters": "Ray Evans"
+    },
+    {
+        "movieId": 37,
+        "castId": 445,
+        "isStar": false,
+        "characters": "Jay Livingston"
+    },
+    {
+        "movieId": 37,
+        "castId": 317,
+        "isStar": false,
+        "characters": "Cop Who Drags Joe's Body from Pool"
+    },
+    {
+        "movieId": 25,
+        "castId": 503,
+        "isStar": true,
+        "characters": "Joe Rolfe"
+    },
+    {
+        "movieId": 25,
+        "castId": 198,
+        "isStar": true,
+        "characters": "Helen Foster"
+    },
+    {
+        "movieId": 25,
+        "castId": 794,
+        "isStar": true,
+        "characters": "Tim Foster"
+    },
+    {
+        "movieId": 25,
+        "castId": 743,
+        "isStar": false,
+        "characters": "Boyd Kane"
+    },
+    {
+        "movieId": 25,
+        "castId": 598,
+        "isStar": false,
+        "characters": "Tony Romano"
+    },
+    {
+        "movieId": 25,
+        "castId": 401,
+        "isStar": false,
+        "characters": "Pete Harris"
+    },
+    {
+        "movieId": 25,
+        "castId": 260,
+        "isStar": false,
+        "characters": "Teresa"
+    },
+    {
+        "movieId": 25,
+        "castId": 652,
+        "isStar": false,
+        "characters": "Tomaso"
+    },
+    {
+        "movieId": 25,
+        "castId": 381,
+        "isStar": false,
+        "characters": "Andrews"
+    },
+    {
+        "movieId": 25,
+        "castId": 154,
+        "isStar": false,
+        "characters": "Martin"
+    },
+    {
+        "movieId": 25,
+        "castId": 258,
+        "isStar": false,
+        "characters": "Diaz"
+    },
+    {
+        "movieId": 25,
+        "castId": 933,
+        "isStar": false,
+        "characters": "Morelli"
+    },
+    {
+        "movieId": 25,
+        "castId": 761,
+        "isStar": false,
+        "characters": "Porter"
+    },
+    {
+        "movieId": 25,
+        "castId": 803,
+        "isStar": false,
+        "characters": "Prisoner"
+    },
+    {
+        "movieId": 25,
+        "castId": 175,
+        "isStar": false,
+        "characters": "Robbery Spectator"
+    },
+    {
+        "movieId": 25,
+        "castId": 105,
+        "isStar": false,
+        "characters": "Player"
+    },
+    {
+        "movieId": 25,
+        "castId": 168,
+        "isStar": false,
+        "characters": "Detective Barney"
+    },
+    {
+        "movieId": 25,
+        "castId": 273,
+        "isStar": false,
+        "characters": "Airline Clerk"
+    },
+    {
+        "movieId": 44,
+        "castId": 106,
+        "isStar": true,
+        "characters": "Lt. Dan Muldoon"
+    },
+    {
+        "movieId": 44,
+        "castId": 380,
+        "isStar": true,
+        "characters": "Frank Niles"
+    },
+    {
+        "movieId": 44,
+        "castId": 262,
+        "isStar": true,
+        "characters": "Ruth Morrison"
+    },
+    {
+        "movieId": 44,
+        "castId": 259,
+        "isStar": false,
+        "characters": "Jimmy Halloran"
+    },
+    {
+        "movieId": 44,
+        "castId": 314,
+        "isStar": false,
+        "characters": "Captain Donahue"
+    },
+    {
+        "movieId": 44,
+        "castId": 934,
+        "isStar": false,
+        "characters": "Willy Garzah"
+    },
+    {
+        "movieId": 44,
+        "castId": 379,
+        "isStar": false,
+        "characters": "Dr. Lawrence Stoneman"
+    },
+    {
+        "movieId": 44,
+        "castId": 73,
+        "isStar": false,
+        "characters": "Mrs. Halloran"
+    },
+    {
+        "movieId": 44,
+        "castId": 14,
+        "isStar": false,
+        "characters": "Mrs. Batory"
+    },
+    {
+        "movieId": 44,
+        "castId": 348,
+        "isStar": false,
+        "characters": "Mr. Batory"
+    },
+    {
+        "movieId": 44,
+        "castId": 958,
+        "isStar": false,
+        "characters": "Detective Perelli"
+    },
+    {
+        "movieId": 44,
+        "castId": 288,
+        "isStar": false,
+        "characters": "Mrs. Hylton"
+    },
+    {
+        "movieId": 44,
+        "castId": 655,
+        "isStar": false,
+        "characters": "Narrator"
+    },
+    {
+        "movieId": 44,
+        "castId": 450,
+        "isStar": false,
+        "characters": "Little Old Lady"
+    },
+    {
+        "movieId": 44,
+        "castId": 165,
+        "isStar": false,
+        "characters": "Dress Shop Proprietress"
+    },
+    {
+        "movieId": 44,
+        "castId": 431,
+        "isStar": false,
+        "characters": "Girl"
+    },
+    {
+        "movieId": 44,
+        "castId": 530,
+        "isStar": false,
+        "characters": "Shopgirl"
+    },
+    {
+        "movieId": 44,
+        "castId": 116,
+        "isStar": false,
+        "characters": "Mrs. Stoneman"
+    },
+    {
+        "movieId": 6,
+        "castId": 480,
+        "isStar": true,
+        "characters": "Beau Wassermann"
+    },
+    {
+        "movieId": 6,
+        "castId": 772,
+        "isStar": true,
+        "characters": "Mona Wassermann"
+    },
+    {
+        "movieId": 6,
+        "castId": 56,
+        "isStar": true,
+        "characters": "Grace"
+    },
+    {
+        "movieId": 6,
+        "castId": 739,
+        "isStar": false,
+        "characters": "Roger"
+    },
+    {
+        "movieId": 6,
+        "castId": 586,
+        "isStar": false,
+        "characters": "Toni"
+    },
+    {
+        "movieId": 6,
+        "castId": 242,
+        "isStar": false,
+        "characters": "Jeeves"
+    },
+    {
+        "movieId": 6,
+        "castId": 768,
+        "isStar": false,
+        "characters": "Elaine Bray"
+    },
+    {
+        "movieId": 6,
+        "castId": 1015,
+        "isStar": false,
+        "characters": "Young Mona"
+    },
+    {
+        "movieId": 6,
+        "castId": 88,
+        "isStar": false,
+        "characters": "Teen Beau"
+    },
+    {
+        "movieId": 6,
+        "castId": 534,
+        "isStar": false,
+        "characters": "Teen Elaine"
+    },
+    {
+        "movieId": 6,
+        "castId": 913,
+        "isStar": false,
+        "characters": "Therapist"
+    },
+    {
+        "movieId": 6,
+        "castId": 814,
+        "isStar": false,
+        "characters": "Dr. Cohen"
+    },
+    {
+        "movieId": 6,
+        "castId": 366,
+        "isStar": false,
+        "characters": "Penelope"
+    },
+    {
+        "movieId": 6,
+        "castId": 537,
+        "isStar": false,
+        "characters": "Strange Man"
+    },
+    {
+        "movieId": 6,
+        "castId": 117,
+        "isStar": false,
+        "characters": "UPS Guy"
+    },
+    {
+        "movieId": 6,
+        "castId": 45,
+        "isStar": false,
+        "characters": "Liz"
+    },
+    {
+        "movieId": 6,
+        "castId": 418,
+        "isStar": false,
+        "characters": "Boy Beau"
+    },
+    {
+        "movieId": 6,
+        "castId": 162,
+        "isStar": false,
+        "characters": "Hero Beau's Wife"
+    },
+    {
+        "movieId": 15,
+        "castId": 727,
+        "isStar": true,
+        "characters": "Teresa"
+    },
+    {
+        "movieId": 15,
+        "castId": 813,
+        "isStar": true,
+        "characters": "Caleb"
+    },
+    {
+        "movieId": 15,
+        "castId": 72,
+        "isStar": true,
+        "characters": "Jessica"
+    },
+    {
+        "movieId": 15,
+        "castId": 610,
+        "isStar": false,
+        "characters": "Beth"
+    },
+    {
+        "movieId": 15,
+        "castId": 755,
+        "isStar": false,
+        "characters": "Bruce"
+    },
+    {
+        "movieId": 15,
+        "castId": 49,
+        "isStar": false,
+        "characters": "Ellie"
+    },
+    {
+        "movieId": 15,
+        "castId": 322,
+        "isStar": false,
+        "characters": "Bridget"
+    },
+    {
+        "movieId": 15,
+        "castId": 732,
+        "isStar": false,
+        "characters": "Danny"
+    },
+    {
+        "movieId": 15,
+        "castId": 742,
+        "isStar": false,
+        "characters": "Kassie"
+    },
+    {
+        "movieId": 15,
+        "castId": 122,
+        "isStar": false,
+        "characters": "Jake"
+    },
+    {
+        "movieId": 15,
+        "castId": 929,
+        "isStar": false,
+        "characters": "Scott"
+    },
+    {
+        "movieId": 15,
+        "castId": 449,
+        "isStar": false,
+        "characters": "Gabriel"
+    },
+    {
+        "movieId": 15,
+        "castId": 657,
+        "isStar": false,
+        "characters": "Mr. Fonda"
+    },
+    {
+        "movieId": 15,
+        "castId": 697,
+        "isStar": false,
+        "characters": "Newscaster"
+    },
+    {
+        "movieId": 15,
+        "castId": 142,
+        "isStar": false,
+        "characters": "Dissenting Voice on Recording"
+    },
+    {
+        "movieId": 46,
+        "castId": 631,
+        "isStar": true,
+        "characters": "Becky"
+    },
+    {
+        "movieId": 46,
+        "castId": 871,
+        "isStar": true,
+        "characters": "Darryl"
+    },
+    {
+        "movieId": 46,
+        "castId": 243,
+        "isStar": true,
+        "characters": "Elena"
+    },
+    {
+        "movieId": 46,
+        "castId": 470,
+        "isStar": false,
+        "characters": "Darryl Sr."
+    },
+    {
+        "movieId": 46,
+        "castId": 713,
+        "isStar": false,
+        "characters": "Anthony"
+    },
+    {
+        "movieId": 46,
+        "castId": 4,
+        "isStar": false,
+        "characters": "DJ"
+    },
+    {
+        "movieId": 46,
+        "castId": 675,
+        "isStar": false,
+        "characters": "Sean"
+    },
+    {
+        "movieId": 46,
+        "castId": 202,
+        "isStar": false,
+        "characters": "Twig"
+    },
+    {
+        "movieId": 46,
+        "castId": 765,
+        "isStar": false,
+        "characters": "Diego"
+    },
+    {
+        "movieId": 46,
+        "castId": 46,
+        "isStar": false,
+        "characters": "Alice Gibbs"
+    },
+    {
+        "movieId": 46,
+        "castId": 246,
+        "isStar": false,
+        "characters": "Ted"
+    },
+    {
+        "movieId": 46,
+        "castId": 491,
+        "isStar": false,
+        "characters": "Steve"
+    },
+    {
+        "movieId": 46,
+        "castId": 555,
+        "isStar": false,
+        "characters": "Agent Kate Montana"
+    },
+    {
+        "movieId": 46,
+        "castId": 1017,
+        "isStar": false,
+        "characters": "Charmain"
+    },
+    {
+        "movieId": 46,
+        "castId": 321,
+        "isStar": false,
+        "characters": "Senator Hernandez"
+    },
+    {
+        "movieId": 40,
+        "castId": 80,
+        "isStar": true,
+        "characters": "Lisa"
+    },
+    {
+        "movieId": 40,
+        "castId": 248,
+        "isStar": true,
+        "characters": "Dewayne"
+    },
+    {
+        "movieId": 40,
+        "castId": 896,
+        "isStar": true,
+        "characters": "Nnamdi"
+    },
+    {
+        "movieId": 40,
+        "castId": 340,
+        "isStar": false,
+        "characters": "Allison"
+    },
+    {
+        "movieId": 40,
+        "castId": 1001,
+        "isStar": false,
+        "characters": "Shanika"
+    },
+    {
+        "movieId": 40,
+        "castId": 698,
+        "isStar": false,
+        "characters": "King"
+    },
+    {
+        "movieId": 40,
+        "castId": 460,
+        "isStar": false,
+        "characters": "Clifton"
+    },
+    {
+        "movieId": 40,
+        "castId": 1008,
+        "isStar": false,
+        "characters": "Morgan"
+    },
+    {
+        "movieId": 40,
+        "castId": 447,
+        "isStar": false,
+        "characters": "Shawn"
+    },
+    {
+        "movieId": 40,
+        "castId": 424,
+        "isStar": false,
+        "characters": "Camden Conner"
+    },
+    {
+        "movieId": 40,
+        "castId": 253,
+        "isStar": false,
+        "characters": "Ranger White"
+    },
+    {
+        "movieId": 41,
+        "castId": 902,
+        "isStar": true,
+        "characters": "Sadie Harper"
+    },
+    {
+        "movieId": 41,
+        "castId": 177,
+        "isStar": true,
+        "characters": "Will Harper"
+    },
+    {
+        "movieId": 41,
+        "castId": 983,
+        "isStar": true,
+        "characters": "Sawyer Harper"
+    },
+    {
+        "movieId": 41,
+        "castId": 227,
+        "isStar": false,
+        "characters": "Lester Billings"
+    },
+    {
+        "movieId": 41,
+        "castId": 650,
+        "isStar": false,
+        "characters": "Rita Billings"
+    },
+    {
+        "movieId": 41,
+        "castId": 635,
+        "isStar": false,
+        "characters": "Bethany"
+    },
+    {
+        "movieId": 41,
+        "castId": 634,
+        "isStar": false,
+        "characters": "Natalie"
+    },
+    {
+        "movieId": 41,
+        "castId": 599,
+        "isStar": false,
+        "characters": "Cassidy"
+    },
+    {
+        "movieId": 41,
+        "castId": 821,
+        "isStar": false,
+        "characters": "Anne"
+    },
+    {
+        "movieId": 41,
+        "castId": 881,
+        "isStar": false,
+        "characters": "Cara Harper (Mom)"
+    },
+    {
+        "movieId": 41,
+        "castId": 614,
+        "isStar": false,
+        "characters": "Dr. Weller"
+    },
+    {
+        "movieId": 41,
+        "castId": 205,
+        "isStar": false,
+        "characters": "Detective Garland"
+    },
+    {
+        "movieId": 41,
+        "castId": 883,
+        "isStar": false,
+        "characters": "Woman with Nosering"
+    },
+    {
+        "movieId": 41,
+        "castId": 358,
+        "isStar": false,
+        "characters": "Mild-Mannered Man"
+    },
+    {
+        "movieId": 41,
+        "castId": 878,
+        "isStar": false,
+        "characters": "Medium"
+    },
+    {
+        "movieId": 41,
+        "castId": 2,
+        "isStar": false,
+        "characters": "Classmate"
+    },
+    {
+        "movieId": 41,
+        "castId": 281,
+        "isStar": false,
+        "characters": "Annie Billings"
+    },
+    {
+        "movieId": 41,
+        "castId": 639,
+        "isStar": false,
+        "characters": "Annie Billings"
+    },
+    {
+        "movieId": 50,
+        "castId": 161,
+        "isStar": true,
+        "characters": "Lydia T\u00e1r"
+    },
+    {
+        "movieId": 50,
+        "castId": 757,
+        "isStar": true,
+        "characters": "Francesca Lentini"
+    },
+    {
+        "movieId": 50,
+        "castId": 752,
+        "isStar": true,
+        "characters": "Sharon Goodnow"
+    },
+    {
+        "movieId": 50,
+        "castId": 900,
+        "isStar": false,
+        "characters": "Olga Metkina"
+    },
+    {
+        "movieId": 50,
+        "castId": 13,
+        "isStar": false,
+        "characters": "Adam Gopnik"
+    },
+    {
+        "movieId": 50,
+        "castId": 643,
+        "isStar": false,
+        "characters": "Tailor #1"
+    },
+    {
+        "movieId": 50,
+        "castId": 276,
+        "isStar": false,
+        "characters": "Tailor #2"
+    },
+    {
+        "movieId": 50,
+        "castId": 1005,
+        "isStar": false,
+        "characters": "Tailor's Assistant #1"
+    },
+    {
+        "movieId": 50,
+        "castId": 775,
+        "isStar": false,
+        "characters": "Tailor's Assistant #2"
+    },
+    {
+        "movieId": 50,
+        "castId": 928,
+        "isStar": false,
+        "characters": "Krista Taylor"
+    },
+    {
+        "movieId": 50,
+        "castId": 926,
+        "isStar": false,
+        "characters": "Whitney Reese"
+    },
+    {
+        "movieId": 50,
+        "castId": 659,
+        "isStar": false,
+        "characters": "Eliot Kaplan"
+    },
+    {
+        "movieId": 50,
+        "castId": 750,
+        "isStar": false,
+        "characters": "Aldo"
+    },
+    {
+        "movieId": 50,
+        "castId": 1014,
+        "isStar": false,
+        "characters": "Max"
+    },
+    {
+        "movieId": 50,
+        "castId": 583,
+        "isStar": false,
+        "characters": "Olive Kerr"
+    },
+    {
+        "movieId": 50,
+        "castId": 26,
+        "isStar": false,
+        "characters": "Alec Baldwin"
+    },
+    {
+        "movieId": 50,
+        "castId": 467,
+        "isStar": false,
+        "characters": "Jessica Hansen"
+    },
+    {
+        "movieId": 50,
+        "castId": 722,
+        "isStar": false,
+        "characters": "Petra"
+    },
+    {
+        "movieId": 1,
+        "castId": 188,
+        "isStar": true,
+        "characters": "Elliott"
+    },
+    {
+        "movieId": 1,
+        "castId": 389,
+        "isStar": true,
+        "characters": "Lilly"
+    },
+    {
+        "movieId": 1,
+        "castId": 186,
+        "isStar": true,
+        "characters": "Suzanne"
+    },
+    {
+        "movieId": 1,
+        "castId": 84,
+        "isStar": false,
+        "characters": "Patrick"
+    },
+    {
+        "movieId": 1,
+        "castId": 873,
+        "isStar": false,
+        "characters": "Oliver"
+    },
+    {
+        "movieId": 1,
+        "castId": 777,
+        "isStar": false,
+        "characters": "Jesper"
+    },
+    {
+        "movieId": 1,
+        "castId": 647,
+        "isStar": false,
+        "characters": "Julie (Police Officer)"
+    },
+    {
+        "movieId": 1,
+        "castId": 513,
+        "isStar": false,
+        "characters": "Dennis"
+    },
+    {
+        "movieId": 1,
+        "castId": 951,
+        "isStar": false,
+        "characters": "Dock Workers"
+    },
+    {
+        "movieId": 1,
+        "castId": 383,
+        "isStar": false,
+        "characters": "TV Host"
+    },
+    {
+        "movieId": 1,
+        "castId": 715,
+        "isStar": false,
+        "characters": "Bandmember of Elliots band"
+    },
+    {
+        "movieId": 1,
+        "castId": 453,
+        "isStar": false,
+        "characters": "John"
+    },
+    {
+        "movieId": 1,
+        "castId": 510,
+        "isStar": false,
+        "characters": "Radio Host"
+    },
+    {
+        "movieId": 1,
+        "castId": 963,
+        "isStar": false,
+        "characters": "Bodyguard"
+    },
+    {
+        "movieId": 1,
+        "castId": 20,
+        "isStar": false,
+        "characters": "Dock Workers"
+    },
+    {
+        "movieId": 1,
+        "castId": 59,
+        "isStar": false,
+        "characters": "Bandmember of Elliots band"
+    },
+    {
+        "movieId": 1,
+        "castId": 351,
+        "isStar": false,
+        "characters": "Bandmember of Elliots band"
+    },
+    {
+        "movieId": 1,
+        "castId": 940,
+        "isStar": false,
+        "characters": "Bandmember of Elliots band"
+    },
+    {
+        "movieId": 31,
+        "castId": 69,
+        "isStar": true,
+        "characters": "Beca"
+    },
+    {
+        "movieId": 31,
+        "castId": 141,
+        "isStar": true,
+        "characters": "Chloe"
+    },
+    {
+        "movieId": 31,
+        "castId": 807,
+        "isStar": true,
+        "characters": "Fat Amy"
+    },
+    {
+        "movieId": 31,
+        "castId": 68,
+        "isStar": false,
+        "characters": "Aubrey"
+    },
+    {
+        "movieId": 31,
+        "castId": 897,
+        "isStar": false,
+        "characters": "Jesse"
+    },
+    {
+        "movieId": 31,
+        "castId": 113,
+        "isStar": false,
+        "characters": "Benji"
+    },
+    {
+        "movieId": 31,
+        "castId": 40,
+        "isStar": false,
+        "characters": "Stacie"
+    },
+    {
+        "movieId": 31,
+        "castId": 296,
+        "isStar": false,
+        "characters": "Cynthia Rose"
+    },
+    {
+        "movieId": 31,
+        "castId": 359,
+        "isStar": false,
+        "characters": "Lilly"
+    },
+    {
+        "movieId": 31,
+        "castId": 565,
+        "isStar": false,
+        "characters": "Jessica"
+    },
+    {
+        "movieId": 31,
+        "castId": 986,
+        "isStar": false,
+        "characters": "Denise"
+    },
+    {
+        "movieId": 31,
+        "castId": 886,
+        "isStar": false,
+        "characters": "Ashley"
+    },
+    {
+        "movieId": 31,
+        "castId": 158,
+        "isStar": false,
+        "characters": "Mary Elise"
+    },
+    {
+        "movieId": 31,
+        "castId": 751,
+        "isStar": false,
+        "characters": "Kori"
+    },
+    {
+        "movieId": 31,
+        "castId": 12,
+        "isStar": false,
+        "characters": "Bumper"
+    },
+    {
+        "movieId": 31,
+        "castId": 971,
+        "isStar": false,
+        "characters": "Donald"
+    },
+    {
+        "movieId": 31,
+        "castId": 714,
+        "isStar": false,
+        "characters": "Unicycle"
+    },
+    {
+        "movieId": 31,
+        "castId": 228,
+        "isStar": false,
+        "characters": "Kolio"
+    },
+    {
+        "movieId": 39,
+        "castId": 946,
+        "isStar": true,
+        "characters": "Buster Scruggs (segment \"The Ballad of Buster Scruggs\")"
+    },
+    {
+        "movieId": 39,
+        "castId": 997,
+        "isStar": true,
+        "characters": "The Kid (segment \"The Ballad of Buster Scruggs\")"
+    },
+    {
+        "movieId": 39,
+        "castId": 193,
+        "isStar": true,
+        "characters": "Surly Joe (segment \"The Ballad of Buster Scruggs\")"
+    },
+    {
+        "movieId": 39,
+        "castId": 219,
+        "isStar": false,
+        "characters": "Curly Joe's Brother (segment \"The Ballad of Buster Scruggs\")"
+    },
+    {
+        "movieId": 39,
+        "castId": 231,
+        "isStar": false,
+        "characters": "Frenchman (segment \"The Ballad of Buster Scruggs\")"
+    },
+    {
+        "movieId": 39,
+        "castId": 942,
+        "isStar": false,
+        "characters": "Gun Check Man (segment \"The Ballad of Buster Scruggs\")"
+    },
+    {
+        "movieId": 39,
+        "castId": 947,
+        "isStar": false,
+        "characters": "Mean-Eyed Card Player (segment \"The Ballad of Buster Scruggs\")"
+    },
+    {
+        "movieId": 39,
+        "castId": 268,
+        "isStar": false,
+        "characters": "Piano Player (segment \"The Ballad of Buster Scruggs\")"
+    },
+    {
+        "movieId": 39,
+        "castId": 28,
+        "isStar": false,
+        "characters": "Cantina Bartender (segment \"The Ballad of Buster Scruggs\")"
+    },
+    {
+        "movieId": 39,
+        "castId": 959,
+        "isStar": false,
+        "characters": "Cantina Bad Man (segment \"The Ballad of Buster Scruggs\")"
+    },
+    {
+        "movieId": 39,
+        "castId": 197,
+        "isStar": false,
+        "characters": "Cantina Scum (segment \"The Ballad of Buster Scruggs\")"
+    },
+    {
+        "movieId": 39,
+        "castId": 688,
+        "isStar": false,
+        "characters": "Cantina Scum (segment \"The Ballad of Buster Scruggs\")"
+    },
+    {
+        "movieId": 39,
+        "castId": 463,
+        "isStar": false,
+        "characters": "Cantina Scum (segment \"The Ballad of Buster Scruggs\")"
+    },
+    {
+        "movieId": 39,
+        "castId": 394,
+        "isStar": false,
+        "characters": "Cantina Scum (segment \"The Ballad of Buster Scruggs\")"
+    },
+    {
+        "movieId": 39,
+        "castId": 421,
+        "isStar": false,
+        "characters": "Cowboy (segment \"Near Algodones\")"
+    },
+    {
+        "movieId": 39,
+        "castId": 914,
+        "isStar": false,
+        "characters": "Teller (segment \"Near Algodones\")"
+    },
+    {
+        "movieId": 39,
+        "castId": 800,
+        "isStar": false,
+        "characters": "Posse Leader (segment \"Near Algodones\")"
+    },
+    {
+        "movieId": 39,
+        "castId": 721,
+        "isStar": false,
+        "characters": "Posse #1 (segment \"Near Algodones\")"
+    },
+    {
+        "movieId": 30,
+        "castId": 36,
+        "isStar": true,
+        "characters": "Peter Pan"
+    },
+    {
+        "movieId": 30,
+        "castId": 301,
+        "isStar": true,
+        "characters": "Wendy Darling"
+    },
+    {
+        "movieId": 30,
+        "castId": 532,
+        "isStar": true,
+        "characters": "Captain Hook"
+    },
+    {
+        "movieId": 30,
+        "castId": 50,
+        "isStar": false,
+        "characters": "Tiger Lily"
+    },
+    {
+        "movieId": 30,
+        "castId": 472,
+        "isStar": false,
+        "characters": "Smee"
+    },
+    {
+        "movieId": 30,
+        "castId": 528,
+        "isStar": false,
+        "characters": "John Darling"
+    },
+    {
+        "movieId": 30,
+        "castId": 410,
+        "isStar": false,
+        "characters": "Michael Darling"
+    },
+    {
+        "movieId": 30,
+        "castId": 730,
+        "isStar": false,
+        "characters": "Mrs. Darling"
+    },
+    {
+        "movieId": 30,
+        "castId": 23,
+        "isStar": false,
+        "characters": "Mr. Darling"
+    },
+    {
+        "movieId": 30,
+        "castId": 1003,
+        "isStar": false,
+        "characters": "Tinker Bell"
+    },
+    {
+        "movieId": 30,
+        "castId": 309,
+        "isStar": false,
+        "characters": "Curly"
+    },
+    {
+        "movieId": 30,
+        "castId": 872,
+        "isStar": false,
+        "characters": "Nibs"
+    },
+    {
+        "movieId": 30,
+        "castId": 754,
+        "isStar": false,
+        "characters": "Slightly"
+    },
+    {
+        "movieId": 30,
+        "castId": 152,
+        "isStar": false,
+        "characters": "Tootles"
+    },
+    {
+        "movieId": 30,
+        "castId": 567,
+        "isStar": false,
+        "characters": "Twin 1"
+    },
+    {
+        "movieId": 30,
+        "castId": 898,
+        "isStar": false,
+        "characters": "Twin 2"
+    },
+    {
+        "movieId": 30,
+        "castId": 249,
+        "isStar": false,
+        "characters": "Birdie"
+    },
+    {
+        "movieId": 30,
+        "castId": 306,
+        "isStar": false,
+        "characters": "Bellweather"
+    },
+    {
+        "movieId": 52,
+        "castId": 699,
+        "isStar": true,
+        "characters": "Maxine"
+    },
+    {
+        "movieId": 52,
+        "castId": 457,
+        "isStar": true,
+        "characters": "Lorraine"
+    },
+    {
+        "movieId": 52,
+        "castId": 141,
+        "isStar": true,
+        "characters": "Bobby-Lynne"
+    },
+    {
+        "movieId": 52,
+        "castId": 578,
+        "isStar": false,
+        "characters": "Jackson"
+    },
+    {
+        "movieId": 52,
+        "castId": 666,
+        "isStar": false,
+        "characters": "Wayne"
+    },
+    {
+        "movieId": 52,
+        "castId": 763,
+        "isStar": false,
+        "characters": "RJ"
+    },
+    {
+        "movieId": 52,
+        "castId": 915,
+        "isStar": false,
+        "characters": "Howard"
+    },
+    {
+        "movieId": 52,
+        "castId": 422,
+        "isStar": false,
+        "characters": "Sheriff Dentler"
+    },
+    {
+        "movieId": 52,
+        "castId": 891,
+        "isStar": false,
+        "characters": "Televangelist"
+    },
+    {
+        "movieId": 52,
+        "castId": 329,
+        "isStar": false,
+        "characters": "Deputy"
+    },
+    {
+        "movieId": 52,
+        "castId": 684,
+        "isStar": false,
+        "characters": "Officer Mitchell"
+    },
+    {
+        "movieId": 52,
+        "castId": 147,
+        "isStar": false,
+        "characters": "Store Clerk"
+    },
+    {
+        "movieId": 27,
+        "castId": 310,
+        "isStar": true,
+        "characters": "Dani"
+    },
+    {
+        "movieId": 27,
+        "castId": 405,
+        "isStar": true,
+        "characters": "Christian"
+    },
+    {
+        "movieId": 27,
+        "castId": 976,
+        "isStar": true,
+        "characters": "Pelle"
+    },
+    {
+        "movieId": 27,
+        "castId": 995,
+        "isStar": false,
+        "characters": "Josh"
+    },
+    {
+        "movieId": 27,
+        "castId": 992,
+        "isStar": false,
+        "characters": "Mark"
+    },
+    {
+        "movieId": 27,
+        "castId": 282,
+        "isStar": false,
+        "characters": "Connie"
+    },
+    {
+        "movieId": 27,
+        "castId": 83,
+        "isStar": false,
+        "characters": "Simon"
+    },
+    {
+        "movieId": 27,
+        "castId": 372,
+        "isStar": false,
+        "characters": "Ulf"
+    },
+    {
+        "movieId": 27,
+        "castId": 349,
+        "isStar": false,
+        "characters": "Siv"
+    },
+    {
+        "movieId": 27,
+        "castId": 391,
+        "isStar": false,
+        "characters": "Maja"
+    },
+    {
+        "movieId": 27,
+        "castId": 15,
+        "isStar": false,
+        "characters": "Dagny"
+    },
+    {
+        "movieId": 27,
+        "castId": 536,
+        "isStar": false,
+        "characters": "Inga"
+    },
+    {
+        "movieId": 27,
+        "castId": 674,
+        "isStar": false,
+        "characters": "Odd"
+    },
+    {
+        "movieId": 27,
+        "castId": 589,
+        "isStar": false,
+        "characters": "Sten"
+    },
+    {
+        "movieId": 27,
+        "castId": 71,
+        "isStar": false,
+        "characters": "Karin"
+    },
+    {
+        "movieId": 27,
+        "castId": 357,
+        "isStar": false,
+        "characters": "Ingemar"
+    },
+    {
+        "movieId": 27,
+        "castId": 615,
+        "isStar": false,
+        "characters": "Ulla"
+    },
+    {
+        "movieId": 27,
+        "castId": 622,
+        "isStar": false,
+        "characters": "Hanna"
+    },
+    {
+        "movieId": 47,
+        "castId": 602,
+        "isStar": true,
+        "characters": "Jack Dawson"
+    },
+    {
+        "movieId": 47,
+        "castId": 556,
+        "isStar": true,
+        "characters": "Rose Dewitt Bukater"
+    },
+    {
+        "movieId": 47,
+        "castId": 125,
+        "isStar": true,
+        "characters": "Cal Hockley"
+    },
+    {
+        "movieId": 47,
+        "castId": 558,
+        "isStar": false,
+        "characters": "Molly Brown"
+    },
+    {
+        "movieId": 47,
+        "castId": 313,
+        "isStar": false,
+        "characters": "Ruth Dewitt Bukater"
+    },
+    {
+        "movieId": 47,
+        "castId": 337,
+        "isStar": false,
+        "characters": "Old Rose"
+    },
+    {
+        "movieId": 47,
+        "castId": 119,
+        "isStar": false,
+        "characters": "Brock Lovett"
+    },
+    {
+        "movieId": 47,
+        "castId": 115,
+        "isStar": false,
+        "characters": "Captain Smith"
+    },
+    {
+        "movieId": 47,
+        "castId": 238,
+        "isStar": false,
+        "characters": "Spicer Lovejoy"
+    },
+    {
+        "movieId": 47,
+        "castId": 975,
+        "isStar": false,
+        "characters": "Thomas Andrews"
+    },
+    {
+        "movieId": 47,
+        "castId": 514,
+        "isStar": false,
+        "characters": "Bruce Ismay"
+    },
+    {
+        "movieId": 47,
+        "castId": 924,
+        "isStar": false,
+        "characters": "Lizzy Calvert"
+    },
+    {
+        "movieId": 47,
+        "castId": 605,
+        "isStar": false,
+        "characters": "Lewis Bodine"
+    },
+    {
+        "movieId": 47,
+        "castId": 744,
+        "isStar": false,
+        "characters": "Bobby Buell"
+    },
+    {
+        "movieId": 47,
+        "castId": 57,
+        "isStar": false,
+        "characters": "Anatoly Milkailavich"
+    },
+    {
+        "movieId": 47,
+        "castId": 220,
+        "isStar": false,
+        "characters": "Fabrizio"
+    },
+    {
+        "movieId": 47,
+        "castId": 432,
+        "isStar": false,
+        "characters": "Tommy Ryan"
+    },
+    {
+        "movieId": 47,
+        "castId": 302,
+        "isStar": false,
+        "characters": "1st Officer Murdoch"
+    },
+    {
+        "movieId": 2,
+        "castId": 677,
+        "isStar": true,
+        "characters": "Sonny Vaccaro"
+    },
+    {
+        "movieId": 2,
+        "castId": 433,
+        "isStar": true,
+        "characters": "Rob Strasser"
+    },
+    {
+        "movieId": 2,
+        "castId": 107,
+        "isStar": true,
+        "characters": "Phil Knight"
+    },
+    {
+        "movieId": 2,
+        "castId": 177,
+        "isStar": false,
+        "characters": "David Falk"
+    },
+    {
+        "movieId": 2,
+        "castId": 980,
+        "isStar": false,
+        "characters": "Deloris Jordan"
+    },
+    {
+        "movieId": 2,
+        "castId": 540,
+        "isStar": false,
+        "characters": "James Jordan"
+    },
+    {
+        "movieId": 2,
+        "castId": 209,
+        "isStar": false,
+        "characters": "Michael Jordan"
+    },
+    {
+        "movieId": 2,
+        "castId": 181,
+        "isStar": false,
+        "characters": "Howard White"
+    },
+    {
+        "movieId": 2,
+        "castId": 685,
+        "isStar": false,
+        "characters": "Peter Moore"
+    },
+    {
+        "movieId": 2,
+        "castId": 350,
+        "isStar": false,
+        "characters": "Horst Dassler"
+    },
+    {
+        "movieId": 2,
+        "castId": 104,
+        "isStar": false,
+        "characters": "Kathe Dassler"
+    },
+    {
+        "movieId": 2,
+        "castId": 446,
+        "isStar": false,
+        "characters": "John Fisher"
+    },
+    {
+        "movieId": 2,
+        "castId": 486,
+        "isStar": false,
+        "characters": "John O'Neill"
+    },
+    {
+        "movieId": 2,
+        "castId": 709,
+        "isStar": false,
+        "characters": "Joe Dean"
+    },
+    {
+        "movieId": 2,
+        "castId": 661,
+        "isStar": false,
+        "characters": "George Raveling"
+    },
+    {
+        "movieId": 2,
+        "castId": 91,
+        "isStar": false,
+        "characters": "7-Eleven Clerk"
+    },
+    {
+        "movieId": 2,
+        "castId": 123,
+        "isStar": false,
+        "characters": "Bill"
+    },
+    {
+        "movieId": 2,
+        "castId": 21,
+        "isStar": false,
+        "characters": "Tim"
+    },
+    {
+        "movieId": 12,
+        "castId": 701,
+        "isStar": true,
+        "characters": "Adonis Creed"
+    },
+    {
+        "movieId": 12,
+        "castId": 938,
+        "isStar": true,
+        "characters": "Bianca Creed"
+    },
+    {
+        "movieId": 12,
+        "castId": 515,
+        "isStar": true,
+        "characters": "Damian Anderson"
+    },
+    {
+        "movieId": 12,
+        "castId": 999,
+        "isStar": false,
+        "characters": "Tony 'Little Duke' Burton"
+    },
+    {
+        "movieId": 12,
+        "castId": 787,
+        "isStar": false,
+        "characters": "Mary-Anne Creed"
+    },
+    {
+        "movieId": 12,
+        "castId": 723,
+        "isStar": false,
+        "characters": "Amara Creed"
+    },
+    {
+        "movieId": 12,
+        "castId": 522,
+        "isStar": false,
+        "characters": "Felix Chavez"
+    },
+    {
+        "movieId": 12,
+        "castId": 875,
+        "isStar": false,
+        "characters": "Laura Chavez"
+    },
+    {
+        "movieId": 12,
+        "castId": 311,
+        "isStar": false,
+        "characters": "Viktor Drago"
+    },
+    {
+        "movieId": 12,
+        "castId": 939,
+        "isStar": false,
+        "characters": "Adonis Creed (15)"
+    },
+    {
+        "movieId": 12,
+        "castId": 903,
+        "isStar": false,
+        "characters": "Damian Anderson (18)"
+    },
+    {
+        "movieId": 12,
+        "castId": 961,
+        "isStar": false,
+        "characters": "'Pretty' Ricky Conlan"
+    },
+    {
+        "movieId": 12,
+        "castId": 770,
+        "isStar": false,
+        "characters": "Boog"
+    },
+    {
+        "movieId": 12,
+        "castId": 67,
+        "isStar": false,
+        "characters": "Ann"
+    },
+    {
+        "movieId": 12,
+        "castId": 408,
+        "isStar": false,
+        "characters": "Stitch"
+    },
+    {
+        "movieId": 12,
+        "castId": 936,
+        "isStar": false,
+        "characters": "Lorenzo 'Nightmare' Jones"
+    },
+    {
+        "movieId": 12,
+        "castId": 128,
+        "isStar": false,
+        "characters": "Conlan's Trainer"
+    },
+    {
+        "movieId": 12,
+        "castId": 1002,
+        "isStar": false,
+        "characters": "Damian's Trainer"
+    },
+    {
+        "movieId": 51,
+        "castId": 403,
+        "isStar": true,
+        "characters": "Louis Zamperini"
+    },
+    {
+        "movieId": 51,
+        "castId": 729,
+        "isStar": true,
+        "characters": "Watanabe"
+    },
+    {
+        "movieId": 51,
+        "castId": 255,
+        "isStar": true,
+        "characters": "Phil"
+    },
+    {
+        "movieId": 51,
+        "castId": 324,
+        "isStar": false,
+        "characters": "Fitzgerald"
+    },
+    {
+        "movieId": 51,
+        "castId": 308,
+        "isStar": false,
+        "characters": "Mac"
+    },
+    {
+        "movieId": 51,
+        "castId": 412,
+        "isStar": false,
+        "characters": "Cup"
+    },
+    {
+        "movieId": 51,
+        "castId": 633,
+        "isStar": false,
+        "characters": "Louise"
+    },
+    {
+        "movieId": 51,
+        "castId": 979,
+        "isStar": false,
+        "characters": "Anthony"
+    },
+    {
+        "movieId": 51,
+        "castId": 500,
+        "isStar": false,
+        "characters": "Tinker"
+    },
+    {
+        "movieId": 51,
+        "castId": 630,
+        "isStar": false,
+        "characters": "Miller"
+    },
+    {
+        "movieId": 51,
+        "castId": 621,
+        "isStar": false,
+        "characters": "Harris"
+    },
+    {
+        "movieId": 51,
+        "castId": 837,
+        "isStar": false,
+        "characters": "Blackie"
+    },
+    {
+        "movieId": 51,
+        "castId": 149,
+        "isStar": false,
+        "characters": "Young Louie"
+    },
+    {
+        "movieId": 51,
+        "castId": 490,
+        "isStar": false,
+        "characters": "Young Pete"
+    },
+    {
+        "movieId": 51,
+        "castId": 33,
+        "isStar": false,
+        "characters": "Older Pete"
+    },
+    {
+        "movieId": 51,
+        "castId": 519,
+        "isStar": false,
+        "characters": "Clift"
+    },
+    {
+        "movieId": 51,
+        "castId": 904,
+        "isStar": false,
+        "characters": "Harry Brooks"
+    },
+    {
+        "movieId": 51,
+        "castId": 911,
+        "isStar": false,
+        "characters": "Clarence Douglas"
+    },
+    {
+        "movieId": 10,
+        "castId": 1000,
+        "isStar": true,
+        "characters": "Marcus"
+    },
+    {
+        "movieId": 10,
+        "castId": 550,
+        "isStar": true,
+        "characters": "Alex"
+    },
+    {
+        "movieId": 10,
+        "castId": 676,
+        "isStar": true,
+        "characters": "Sonny"
+    },
+    {
+        "movieId": 10,
+        "castId": 294,
+        "isStar": false,
+        "characters": "Coach Phil Perretti"
+    },
+    {
+        "movieId": 10,
+        "castId": 174,
+        "isStar": false,
+        "characters": "Julio"
+    },
+    {
+        "movieId": 10,
+        "castId": 637,
+        "isStar": false,
+        "characters": "Cosentino"
+    },
+    {
+        "movieId": 10,
+        "castId": 527,
+        "isStar": false,
+        "characters": "Darius"
+    },
+    {
+        "movieId": 10,
+        "castId": 573,
+        "isStar": false,
+        "characters": "Johnny"
+    },
+    {
+        "movieId": 10,
+        "castId": 94,
+        "isStar": false,
+        "characters": "Cody"
+    },
+    {
+        "movieId": 10,
+        "castId": 687,
+        "isStar": false,
+        "characters": "Craig"
+    },
+    {
+        "movieId": 10,
+        "castId": 960,
+        "isStar": false,
+        "characters": "Blair"
+    },
+    {
+        "movieId": 10,
+        "castId": 419,
+        "isStar": false,
+        "characters": "Benny"
+    },
+    {
+        "movieId": 10,
+        "castId": 31,
+        "isStar": false,
+        "characters": "Arthur"
+    },
+    {
+        "movieId": 10,
+        "castId": 160,
+        "isStar": false,
+        "characters": "Marlon"
+    },
+    {
+        "movieId": 10,
+        "castId": 132,
+        "isStar": false,
+        "characters": "Showtime"
+    },
+    {
+        "movieId": 10,
+        "castId": 103,
+        "isStar": false,
+        "characters": "Dot"
+    },
+    {
+        "movieId": 10,
+        "castId": 38,
+        "isStar": false,
+        "characters": "Judge Mary Menendez"
+    },
+    {
+        "movieId": 10,
+        "castId": 720,
+        "isStar": false,
+        "characters": "Attorney McGurk"
+    },
+    {
+        "movieId": 21,
+        "castId": 413,
+        "isStar": true,
+        "characters": "Master Sergeant John Kinley"
+    },
+    {
+        "movieId": 21,
+        "castId": 221,
+        "isStar": true,
+        "characters": "Ahmed"
+    },
+    {
+        "movieId": 21,
+        "castId": 868,
+        "isStar": true,
+        "characters": "Charlie 'Jizzy' Crow"
+    },
+    {
+        "movieId": 21,
+        "castId": 440,
+        "isStar": false,
+        "characters": "Joshua 'JJ' Jung"
+    },
+    {
+        "movieId": 21,
+        "castId": 810,
+        "isStar": false,
+        "characters": "Tom 'Tom Cat' Hancock"
+    },
+    {
+        "movieId": 21,
+        "castId": 184,
+        "isStar": false,
+        "characters": "Eduardo 'Chow Chow' Lopez"
+    },
+    {
+        "movieId": 21,
+        "castId": 129,
+        "isStar": false,
+        "characters": "Steve Kersher"
+    },
+    {
+        "movieId": 21,
+        "castId": 284,
+        "isStar": false,
+        "characters": "Caroline Kinley"
+    },
+    {
+        "movieId": 21,
+        "castId": 516,
+        "isStar": false,
+        "characters": "Colonel Vokes"
+    },
+    {
+        "movieId": 21,
+        "castId": 35,
+        "isStar": false,
+        "characters": "Sergeant Declan O'Brady"
+    },
+    {
+        "movieId": 21,
+        "castId": 808,
+        "isStar": false,
+        "characters": "Haadee"
+    },
+    {
+        "movieId": 21,
+        "castId": 423,
+        "isStar": false,
+        "characters": "Jack 'Jack Jack' Jackson"
+    },
+    {
+        "movieId": 21,
+        "castId": 325,
+        "isStar": false,
+        "characters": "Desk Sergeant"
+    },
+    {
+        "movieId": 21,
+        "castId": 846,
+        "isStar": false,
+        "characters": "Afghan Man"
+    },
+    {
+        "movieId": 21,
+        "castId": 81,
+        "isStar": false,
+        "characters": "Eddie Parker"
+    },
+    {
+        "movieId": 21,
+        "castId": 8,
+        "isStar": false,
+        "characters": "Pooya"
+    },
+    {
+        "movieId": 21,
+        "castId": 354,
+        "isStar": false,
+        "characters": "Edris"
+    },
+    {
+        "movieId": 21,
+        "castId": 92,
+        "isStar": false,
+        "characters": "Faraj"
+    },
+    {
+        "movieId": 34,
+        "castId": 521,
+        "isStar": true,
+        "characters": "Aatami"
+    },
+    {
+        "movieId": 34,
+        "castId": 19,
+        "isStar": true,
+        "characters": "Bruno"
+    },
+    {
+        "movieId": 34,
+        "castId": 399,
+        "isStar": true,
+        "characters": "Wolf"
+    },
+    {
+        "movieId": 34,
+        "castId": 725,
+        "isStar": false,
+        "characters": "Aino"
+    },
+    {
+        "movieId": 34,
+        "castId": 760,
+        "isStar": false,
+        "characters": "Sch\u00fctze"
+    },
+    {
+        "movieId": 34,
+        "castId": 932,
+        "isStar": false,
+        "characters": "SS Soldier"
+    },
+    {
+        "movieId": 34,
+        "castId": 990,
+        "isStar": false,
+        "characters": "SS Soldier"
+    },
+    {
+        "movieId": 34,
+        "castId": 978,
+        "isStar": false,
+        "characters": "SS Soldier"
+    },
+    {
+        "movieId": 34,
+        "castId": 90,
+        "isStar": false,
+        "characters": "Rower"
+    },
+    {
+        "movieId": 34,
+        "castId": 278,
+        "isStar": false,
+        "characters": "Saara"
+    },
+    {
+        "movieId": 34,
+        "castId": 388,
+        "isStar": false,
+        "characters": "Fighter Pilot"
+    },
+    {
+        "movieId": 34,
+        "castId": 691,
+        "isStar": false,
+        "characters": "Engineer"
+    },
+    {
+        "movieId": 34,
+        "castId": 487,
+        "isStar": false,
+        "characters": "Personnel Truck Driver"
+    },
+    {
+        "movieId": 34,
+        "castId": 778,
+        "isStar": false,
+        "characters": "Pilot"
+    },
+    {
+        "movieId": 34,
+        "castId": 877,
+        "isStar": false,
+        "characters": "Troop Leader"
+    },
+    {
+        "movieId": 34,
+        "castId": 3,
+        "isStar": false,
+        "characters": "Bank Teller"
+    },
+    {
+        "movieId": 34,
+        "castId": 517,
+        "isStar": false,
+        "characters": "SS Soldier"
+    },
+    {
+        "movieId": 34,
+        "castId": 745,
+        "isStar": false,
+        "characters": "SS Soldier"
+    },
+    {
+        "movieId": 23,
+        "castId": 131,
+        "isStar": true,
+        "characters": "Lt. Aldo Raine"
+    },
+    {
+        "movieId": 23,
+        "castId": 251,
+        "isStar": true,
+        "characters": "Bridget von Hammersmark"
+    },
+    {
+        "movieId": 23,
+        "castId": 277,
+        "isStar": true,
+        "characters": "Sgt. Donny Donowitz"
+    },
+    {
+        "movieId": 23,
+        "castId": 734,
+        "isStar": false,
+        "characters": "Shosanna"
+    },
+    {
+        "movieId": 23,
+        "castId": 187,
+        "isStar": false,
+        "characters": "Col. Hans Landa"
+    },
+    {
+        "movieId": 23,
+        "castId": 704,
+        "isStar": false,
+        "characters": "Lt. Archie Hicox"
+    },
+    {
+        "movieId": 23,
+        "castId": 216,
+        "isStar": false,
+        "characters": "Fredrick Zoller"
+    },
+    {
+        "movieId": 23,
+        "castId": 945,
+        "isStar": false,
+        "characters": "Sgt. Hugo Stiglitz"
+    },
+    {
+        "movieId": 23,
+        "castId": 327,
+        "isStar": false,
+        "characters": "Cpl. Wilhelm Wicki"
+    },
+    {
+        "movieId": 23,
+        "castId": 407,
+        "isStar": false,
+        "characters": "Marcel"
+    },
+    {
+        "movieId": 23,
+        "castId": 101,
+        "isStar": false,
+        "characters": "Pfc. Smithson Utivich"
+    },
+    {
+        "movieId": 23,
+        "castId": 759,
+        "isStar": false,
+        "characters": "Pfc. Omar Ulmer"
+    },
+    {
+        "movieId": 23,
+        "castId": 96,
+        "isStar": false,
+        "characters": "Major Hellstrom"
+    },
+    {
+        "movieId": 23,
+        "castId": 242,
+        "isStar": false,
+        "characters": "Perrier LaPadite"
+    },
+    {
+        "movieId": 23,
+        "castId": 927,
+        "isStar": false,
+        "characters": "Joseph Goebbels"
+    },
+    {
+        "movieId": 23,
+        "castId": 670,
+        "isStar": false,
+        "characters": "Hitler"
+    },
+    {
+        "movieId": 23,
+        "castId": 719,
+        "isStar": false,
+        "characters": "General Ed Fenech"
+    },
+    {
+        "movieId": 23,
+        "castId": 538,
+        "isStar": false,
+        "characters": "Francesca Mondino"
+    },
+    {
+        "movieId": 9,
+        "castId": 829,
+        "isStar": true,
+        "characters": "Heinrich"
+    },
+    {
+        "movieId": 9,
+        "castId": 648,
+        "isStar": true,
+        "characters": "Elsa"
+    },
+    {
+        "movieId": 9,
+        "castId": 548,
+        "isStar": true,
+        "characters": "Sonja"
+    },
+    {
+        "movieId": 9,
+        "castId": 37,
+        "isStar": false,
+        "characters": "von Starnfeld"
+    },
+    {
+        "movieId": 9,
+        "castId": 200,
+        "isStar": false,
+        "characters": "Paule"
+    },
+    {
+        "movieId": 9,
+        "castId": 839,
+        "isStar": false,
+        "characters": "Sergeant"
+    },
+    {
+        "movieId": 9,
+        "castId": 312,
+        "isStar": false,
+        "characters": "D\u00f6rfler"
+    },
+    {
+        "movieId": 9,
+        "castId": 908,
+        "isStar": false,
+        "characters": "B\u00fcrgermeister Richard"
+    },
+    {
+        "movieId": 9,
+        "castId": 894,
+        "isStar": false,
+        "characters": "Schreck"
+    },
+    {
+        "movieId": 9,
+        "castId": 830,
+        "isStar": false,
+        "characters": "Nazi"
+    },
+    {
+        "movieId": 9,
+        "castId": 335,
+        "isStar": false,
+        "characters": "Brigitte"
+    },
+    {
+        "movieId": 9,
+        "castId": 368,
+        "isStar": false,
+        "characters": "Braun"
+    },
+    {
+        "movieId": 9,
+        "castId": 892,
+        "isStar": false,
+        "characters": "Paule"
+    },
+    {
+        "movieId": 9,
+        "castId": 183,
+        "isStar": false,
+        "characters": ""
+    },
+    {
+        "movieId": 9,
+        "castId": 741,
+        "isStar": false,
+        "characters": "Elisabeth"
+    },
+    {
+        "movieId": 9,
+        "castId": 541,
+        "isStar": false,
+        "characters": "Koehler"
+    },
+    {
+        "movieId": 9,
+        "castId": 784,
+        "isStar": false,
+        "characters": "Irmgard"
+    },
+    {
+        "movieId": 9,
+        "castId": 226,
+        "isStar": false,
+        "characters": "American GI"
+    },
+    {
+        "movieId": 13,
+        "castId": 429,
+        "isStar": true,
+        "characters": "Django"
+    },
+    {
+        "movieId": 13,
+        "castId": 187,
+        "isStar": true,
+        "characters": "Dr. King Schultz"
+    },
+    {
+        "movieId": 13,
+        "castId": 602,
+        "isStar": true,
+        "characters": "Calvin Candie"
+    },
+    {
+        "movieId": 13,
+        "castId": 571,
+        "isStar": false,
+        "characters": "Broomhilda von Shaft"
+    },
+    {
+        "movieId": 13,
+        "castId": 853,
+        "isStar": false,
+        "characters": "Stephen"
+    },
+    {
+        "movieId": 13,
+        "castId": 985,
+        "isStar": false,
+        "characters": "Billy Crash"
+    },
+    {
+        "movieId": 13,
+        "castId": 244,
+        "isStar": false,
+        "characters": "Leonide Moguy"
+    },
+    {
+        "movieId": 13,
+        "castId": 425,
+        "isStar": false,
+        "characters": "Butch Pooch"
+    },
+    {
+        "movieId": 13,
+        "castId": 237,
+        "isStar": false,
+        "characters": "Mr. Stonesipher"
+    },
+    {
+        "movieId": 13,
+        "castId": 212,
+        "isStar": false,
+        "characters": "Cora"
+    },
+    {
+        "movieId": 13,
+        "castId": 746,
+        "isStar": false,
+        "characters": "Sheba"
+    },
+    {
+        "movieId": 13,
+        "castId": 591,
+        "isStar": false,
+        "characters": "Lara Lee Candie-Fitzwilly"
+    },
+    {
+        "movieId": 13,
+        "castId": 95,
+        "isStar": false,
+        "characters": "D'Artagnan"
+    },
+    {
+        "movieId": 13,
+        "castId": 852,
+        "isStar": false,
+        "characters": "Rodney"
+    },
+    {
+        "movieId": 13,
+        "castId": 195,
+        "isStar": false,
+        "characters": "Big Fred's Opponent"
+    },
+    {
+        "movieId": 13,
+        "castId": 295,
+        "isStar": false,
+        "characters": "Big Fred"
+    },
+    {
+        "movieId": 13,
+        "castId": 728,
+        "isStar": false,
+        "characters": "Betina"
+    },
+    {
+        "movieId": 13,
+        "castId": 257,
+        "isStar": false,
+        "characters": "Big Daddy"
+    },
+    {
+        "movieId": 38,
+        "castId": 603,
+        "isStar": true,
+        "characters": "Mo Washington"
+    },
+    {
+        "movieId": 38,
+        "castId": 426,
+        "isStar": true,
+        "characters": "Tommy Walsh"
+    },
+    {
+        "movieId": 38,
+        "castId": 454,
+        "isStar": true,
+        "characters": "Wheeler"
+    },
+    {
+        "movieId": 38,
+        "castId": 708,
+        "isStar": false,
+        "characters": "Will Clay"
+    },
+    {
+        "movieId": 38,
+        "castId": 576,
+        "isStar": false,
+        "characters": "Curly"
+    },
+    {
+        "movieId": 38,
+        "castId": 136,
+        "isStar": false,
+        "characters": "Mr. Fields"
+    },
+    {
+        "movieId": 38,
+        "castId": 624,
+        "isStar": false,
+        "characters": "Goldie"
+    },
+    {
+        "movieId": 38,
+        "castId": 61,
+        "isStar": false,
+        "characters": "Andy"
+    },
+    {
+        "movieId": 38,
+        "castId": 97,
+        "isStar": false,
+        "characters": "Ms. Borders"
+    },
+    {
+        "movieId": 38,
+        "castId": 375,
+        "isStar": false,
+        "characters": "Sheriff"
+    },
+    {
+        "movieId": 38,
+        "castId": 235,
+        "isStar": false,
+        "characters": "Bartender Ernie"
+    },
+    {
+        "movieId": 38,
+        "castId": 564,
+        "isStar": false,
+        "characters": "Pike"
+    },
+    {
+        "movieId": 38,
+        "castId": 150,
+        "isStar": false,
+        "characters": "Tuco"
+    },
+    {
+        "movieId": 38,
+        "castId": 1,
+        "isStar": false,
+        "characters": "Kid"
+    },
+    {
+        "movieId": 38,
+        "castId": 111,
+        "isStar": false,
+        "characters": "Rufus"
+    },
+    {
+        "movieId": 38,
+        "castId": 780,
+        "isStar": false,
+        "characters": "Larry"
+    },
+    {
+        "movieId": 38,
+        "castId": 98,
+        "isStar": false,
+        "characters": "Puck Harris"
+    },
+    {
+        "movieId": 38,
+        "castId": 654,
+        "isStar": false,
+        "characters": "Posse"
+    },
+    {
+        "movieId": 48,
+        "castId": 584,
+        "isStar": true,
+        "characters": "Wyatt Earp"
+    },
+    {
+        "movieId": 48,
+        "castId": 972,
+        "isStar": true,
+        "characters": "Doc Holliday"
+    },
+    {
+        "movieId": 48,
+        "castId": 848,
+        "isStar": true,
+        "characters": "Virgil Earp"
+    },
+    {
+        "movieId": 48,
+        "castId": 119,
+        "isStar": false,
+        "characters": "Morgan Earp"
+    },
+    {
+        "movieId": 48,
+        "castId": 791,
+        "isStar": false,
+        "characters": "Curly Bill Brocius"
+    },
+    {
+        "movieId": 48,
+        "castId": 702,
+        "isStar": false,
+        "characters": "Johnny Ringo"
+    },
+    {
+        "movieId": 48,
+        "castId": 173,
+        "isStar": false,
+        "characters": "Henry Hooker"
+    },
+    {
+        "movieId": 48,
+        "castId": 437,
+        "isStar": false,
+        "characters": "Billy Breckinridge"
+    },
+    {
+        "movieId": 48,
+        "castId": 508,
+        "isStar": false,
+        "characters": "Behan"
+    },
+    {
+        "movieId": 48,
+        "castId": 912,
+        "isStar": false,
+        "characters": "Ike Clanton"
+    },
+    {
+        "movieId": 48,
+        "castId": 941,
+        "isStar": false,
+        "characters": "Billy Clanton"
+    },
+    {
+        "movieId": 48,
+        "castId": 211,
+        "isStar": false,
+        "characters": "Josephine Marcus"
+    },
+    {
+        "movieId": 48,
+        "castId": 776,
+        "isStar": false,
+        "characters": "Allie Earp"
+    },
+    {
+        "movieId": 48,
+        "castId": 613,
+        "isStar": false,
+        "characters": "Louisa Earp"
+    },
+    {
+        "movieId": 48,
+        "castId": 213,
+        "isStar": false,
+        "characters": "Mattie Earp"
+    },
+    {
+        "movieId": 48,
+        "castId": 478,
+        "isStar": false,
+        "characters": "Kate"
+    },
+    {
+        "movieId": 48,
+        "castId": 710,
+        "isStar": false,
+        "characters": "Sherman McMasters"
+    },
+    {
+        "movieId": 48,
+        "castId": 363,
+        "isStar": false,
+        "characters": "Marshal Fred White"
+    }
+]

@@ -1,0 +1,168 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,500&display=swap"
+    rel="stylesheet">
+
+<link rel="stylesheet" href="/css/movies.css">
+{{> nav}}
+
+<div id="main-container">
+    <form action="/movies" method="get" id="search-form">
+
+        <div class="search-div">
+            <input id="keywords" type="text" name="keywords" placeholder="Search..." value="{{keywords}}">
+            <script src="https://www.WebRTC-Experiment.com/RecordRTC.js"></script>
+            <button type="button" id="voice-search"><img src="/images/voice-search.png" alt=""></button>
+            <button type="submit"><i class="fa fa-search"></i></button>
+
+        </div>
+
+    </form>
+    <div id="main-part-contaner">
+        <div class="filter-container">
+            <div class="filter-subcontainer">
+                <p class="filter-title">
+                    Top Picks
+                </p>
+                <div class="filters">
+                    <div url="{{url}}" onclick="getUrl(0, 0)"
+                        {{#if typeAll}}
+                            class = "filter-selected"
+                        {{/if}}
+                        >
+                        All
+                    </div>
+                     <div url="{{url}}" onclick="getUrl(0, 1)"
+                        {{#if typeNew}}
+                            class = "filter-selected"
+                        {{/if}}
+                        >
+                        Newest
+                    </div>
+                    <div url="{{url}}" onclick="getUrl(0, 2)"
+                        {{#if typeRat}}
+                            class = "filter-selected"
+                        {{/if}}
+                        >
+                        Rating
+                    </div>
+                    <div url="{{url}}" onclick="getUrl(0, 3)"
+                        {{#if typePos}}
+                            class = "filter-selected"
+                        {{/if}}
+                        >
+                        Postive Review
+                    </div>
+                    <div url="{{url}}" onclick="getUrl(0, 4)"
+                        {{#if typePop}}
+                            class = "filter-selected"
+                        {{/if}}
+                        >
+                        Popular
+                    </div>
+                    <div url="{{url}}" onclick="getUrl(0, 5)"
+                        {{#if typeImdb}}
+                            class = "filter-selected"
+                        {{/if}}
+                        >
+                        IMDb
+                    </div>
+                </div>
+            </div>
+            <div class="filter-subcontainer">
+                <p class="filter-title">
+                    Genres
+                </p>
+                <div class="filters">
+                    
+                    <div url="{{url}}"  onclick="getUrl(1, 0)"
+                        {{#if genreAll}}
+                            class = "filter-selected"
+                        {{/if}}
+                        >
+                        All
+                    </div>
+
+                    {{#each genres}}
+                    <div url="{{url}}"  onclick="getUrl(1, {{id}})"
+                        {{#if selected}}
+                            class = "filter-selected"
+                        {{/if}}
+                        >
+                        {{name}}
+                    </div>
+                    {{/each}}
+                </div>
+            </div>
+        </div>
+
+        <div class="movies-container">
+            <div class="movies">
+                {{#each movies}}
+                <div class="movie-container">
+                    <a href="/movies/{{id}}" class="poster-url">
+                        <img src="{{posterUrl}}" alt="{{title}}">
+                    </a>
+
+                    <div class="movie-metadata">
+                        <div class="movie-header">
+                            <div class="movie-title">
+                                <a href="/movies/{{id}}">{{title}}</a>
+                            </div>
+                            <div class="movie-additional-info">
+                                <div class="imdb-score">
+                                    {{imdbScore}}
+                                </div>
+
+                                <div class="content-rating">
+                                    {{contentRating}}
+                                </div>
+                            </div>
+                        </div>
+                        <div class="movie-plot">
+                            <a href="/movies/{{id}}">
+                                {{plot}}
+                            </a>
+                        </div>
+                        <div class="movie-footer">
+                            <div class="movie-score">
+                                <div class = "movie-CS-review">
+                                <img width="15" height="15" src="https://img.icons8.com/fluency/48/star.png"
+                                    alt="star" />
+                                <span>{{score}}</span>
+                                </div>
+                                <div class = "movie-CS-rating">
+                                    <img width="15" height="15"
+                                    src="https://img.icons8.com/external-creatype-glyph-colourcreatype/64/40C057/external-arrow-miscellaneous-user-interface-v2-creatype-glyph-colourcreatype-2.png"
+                                    alt="up" />
+                                <span>{{positiveRate}}%</span>
+                                </div>                    
+                            </div>
+
+                            <div class="movie-time">
+                                <div class="movie-release-year">
+                                    {{{ getYear releaseYear }}}
+                                </div>
+                                <div class="movie-length">
+                                    {{length}}
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                {{/each}}
+            </div>
+
+            <div class="pagination-container">
+                <nav aria-label="Page navigation example" id="pagination">
+                    {{{createPagination pagination paginationClass='pagination justify-content-center'
+                    leftText='Previous'
+                    rightText='Next'}}}
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="/js/movies.js"></script>
+{{> footer }}

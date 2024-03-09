@@ -1,0 +1,462 @@
+[
+    {
+        "writerId": 185,
+        "movieId": 42
+    },
+    {
+        "writerId": 496,
+        "movieId": 42
+    },
+    {
+        "writerId": 512,
+        "movieId": 42
+    },
+    {
+        "writerId": 483,
+        "movieId": 17
+    },
+    {
+        "writerId": 58,
+        "movieId": 17
+    },
+    {
+        "writerId": 78,
+        "movieId": 17
+    },
+    {
+        "writerId": 786,
+        "movieId": 35
+    },
+    {
+        "writerId": 190,
+        "movieId": 35
+    },
+    {
+        "writerId": 224,
+        "movieId": 35
+    },
+    {
+        "writerId": 483,
+        "movieId": 16
+    },
+    {
+        "writerId": 58,
+        "movieId": 16
+    },
+    {
+        "writerId": 78,
+        "movieId": 16
+    },
+    {
+        "writerId": 417,
+        "movieId": 4
+    },
+    {
+        "writerId": 818,
+        "movieId": 4
+    },
+    {
+        "writerId": 52,
+        "movieId": 4
+    },
+    {
+        "writerId": 498,
+        "movieId": 14
+    },
+    {
+        "writerId": 553,
+        "movieId": 14
+    },
+    {
+        "writerId": 133,
+        "movieId": 14
+    },
+    {
+        "writerId": 481,
+        "movieId": 49
+    },
+    {
+        "writerId": 222,
+        "movieId": 49
+    },
+    {
+        "writerId": 526,
+        "movieId": 49
+    },
+    {
+        "writerId": 786,
+        "movieId": 36
+    },
+    {
+        "writerId": 831,
+        "movieId": 36
+    },
+    {
+        "writerId": 683,
+        "movieId": 45
+    },
+    {
+        "writerId": 505,
+        "movieId": 7
+    },
+    {
+        "writerId": 16,
+        "movieId": 7
+    },
+    {
+        "writerId": 1007,
+        "movieId": 7
+    },
+    {
+        "writerId": 191,
+        "movieId": 29
+    },
+    {
+        "writerId": 549,
+        "movieId": 29
+    },
+    {
+        "writerId": 669,
+        "movieId": 29
+    },
+    {
+        "writerId": 606,
+        "movieId": 19
+    },
+    {
+        "writerId": 612,
+        "movieId": 19
+    },
+    {
+        "writerId": 817,
+        "movieId": 19
+    },
+    {
+        "writerId": 411,
+        "movieId": 8
+    },
+    {
+        "writerId": 869,
+        "movieId": 8
+    },
+    {
+        "writerId": 678,
+        "movieId": 8
+    },
+    {
+        "writerId": 907,
+        "movieId": 11
+    },
+    {
+        "writerId": 328,
+        "movieId": 28
+    },
+    {
+        "writerId": 504,
+        "movieId": 28
+    },
+    {
+        "writerId": 989,
+        "movieId": 3
+    },
+    {
+        "writerId": 832,
+        "movieId": 3
+    },
+    {
+        "writerId": 346,
+        "movieId": 5
+    },
+    {
+        "writerId": 753,
+        "movieId": 5
+    },
+    {
+        "writerId": 882,
+        "movieId": 24
+    },
+    {
+        "writerId": 705,
+        "movieId": 24
+    },
+    {
+        "writerId": 247,
+        "movieId": 24
+    },
+    {
+        "writerId": 210,
+        "movieId": 18
+    },
+    {
+        "writerId": 545,
+        "movieId": 18
+    },
+    {
+        "writerId": 1010,
+        "movieId": 18
+    },
+    {
+        "writerId": 344,
+        "movieId": 22
+    },
+    {
+        "writerId": 47,
+        "movieId": 22
+    },
+    {
+        "writerId": 292,
+        "movieId": 26
+    },
+    {
+        "writerId": 668,
+        "movieId": 26
+    },
+    {
+        "writerId": 230,
+        "movieId": 26
+    },
+    {
+        "writerId": 373,
+        "movieId": 33
+    },
+    {
+        "writerId": 178,
+        "movieId": 33
+    },
+    {
+        "writerId": 118,
+        "movieId": 33
+    },
+    {
+        "writerId": 234,
+        "movieId": 43
+    },
+    {
+        "writerId": 360,
+        "movieId": 43
+    },
+    {
+        "writerId": 502,
+        "movieId": 43
+    },
+    {
+        "writerId": 232,
+        "movieId": 20
+    },
+    {
+        "writerId": 984,
+        "movieId": 32
+    },
+    {
+        "writerId": 996,
+        "movieId": 32
+    },
+    {
+        "writerId": 167,
+        "movieId": 37
+    },
+    {
+        "writerId": 124,
+        "movieId": 37
+    },
+    {
+        "writerId": 207,
+        "movieId": 37
+    },
+    {
+        "writerId": 330,
+        "movieId": 25
+    },
+    {
+        "writerId": 364,
+        "movieId": 25
+    },
+    {
+        "writerId": 362,
+        "movieId": 25
+    },
+    {
+        "writerId": 24,
+        "movieId": 44
+    },
+    {
+        "writerId": 640,
+        "movieId": 44
+    },
+    {
+        "writerId": 85,
+        "movieId": 6
+    },
+    {
+        "writerId": 597,
+        "movieId": 15
+    },
+    {
+        "writerId": 675,
+        "movieId": 46
+    },
+    {
+        "writerId": 923,
+        "movieId": 46
+    },
+    {
+        "writerId": 747,
+        "movieId": 46
+    },
+    {
+        "writerId": 966,
+        "movieId": 40
+    },
+    {
+        "writerId": 248,
+        "movieId": 40
+    },
+    {
+        "writerId": 862,
+        "movieId": 41
+    },
+    {
+        "writerId": 144,
+        "movieId": 41
+    },
+    {
+        "writerId": 656,
+        "movieId": 41
+    },
+    {
+        "writerId": 953,
+        "movieId": 50
+    },
+    {
+        "writerId": 906,
+        "movieId": 1
+    },
+    {
+        "writerId": 559,
+        "movieId": 31
+    },
+    {
+        "writerId": 717,
+        "movieId": 31
+    },
+    {
+        "writerId": 484,
+        "movieId": 39
+    },
+    {
+        "writerId": 297,
+        "movieId": 39
+    },
+    {
+        "writerId": 402,
+        "movieId": 39
+    },
+    {
+        "writerId": 233,
+        "movieId": 30
+    },
+    {
+        "writerId": 952,
+        "movieId": 30
+    },
+    {
+        "writerId": 395,
+        "movieId": 30
+    },
+    {
+        "writerId": 943,
+        "movieId": 52
+    },
+    {
+        "writerId": 85,
+        "movieId": 27
+    },
+    {
+        "writerId": 417,
+        "movieId": 47
+    },
+    {
+        "writerId": 29,
+        "movieId": 2
+    },
+    {
+        "writerId": 563,
+        "movieId": 12
+    },
+    {
+        "writerId": 1009,
+        "movieId": 12
+    },
+    {
+        "writerId": 843,
+        "movieId": 12
+    },
+    {
+        "writerId": 484,
+        "movieId": 51
+    },
+    {
+        "writerId": 297,
+        "movieId": 51
+    },
+    {
+        "writerId": 816,
+        "movieId": 51
+    },
+    {
+        "writerId": 658,
+        "movieId": 10
+    },
+    {
+        "writerId": 442,
+        "movieId": 10
+    },
+    {
+        "writerId": 236,
+        "movieId": 10
+    },
+    {
+        "writerId": 352,
+        "movieId": 21
+    },
+    {
+        "writerId": 393,
+        "movieId": 21
+    },
+    {
+        "writerId": 662,
+        "movieId": 21
+    },
+    {
+        "writerId": 416,
+        "movieId": 34
+    },
+    {
+        "writerId": 795,
+        "movieId": 23
+    },
+    {
+        "writerId": 905,
+        "movieId": 9
+    },
+    {
+        "writerId": 783,
+        "movieId": 9
+    },
+    {
+        "writerId": 795,
+        "movieId": 13
+    },
+    {
+        "writerId": 61,
+        "movieId": 38
+    },
+    {
+        "writerId": 546,
+        "movieId": 38
+    },
+    {
+        "writerId": 574,
+        "movieId": 48
+    }
+]

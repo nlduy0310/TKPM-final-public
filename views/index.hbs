@@ -1,0 +1,274 @@
+<link rel="stylesheet" href="/css/index.css">
+{{> welcome}}
+{{> nav}}
+{{#with newestMovies}}
+<section class="hero-section" id="section_1">
+    <div class="section-overlay"></div>
+
+    <div class="container d-flex justify-content-center align-items-center">
+        <div class="row">
+
+            <div class="col-12 mt-auto mb-5 text-center">
+                <small>{{formatDate releaseYear 'MMMM Do YYYY'}}</small>
+
+                <h2 class="text-white mb-5">{{title}}</h2>
+
+                <a class="btn custom-btn smoothscroll" href="/movies/{{id}}">Check it out!</a>
+            </div>
+
+            <div class="col-lg-12 col-12 mt-auto d-flex flex-column flex-lg-row justify-content-between text-center">
+                <div class="date-wrap">
+                    <h5 class="text-white">
+                        <i class="custom-icon bi-clock me-2"></i>
+                       {{getDate releaseYear}} <sup>th</sup>, {{getMonth releaseYear}} {{getYear releaseYear}}
+                    </h5>
+                </div>
+                <div class="social-share">
+                    <ul class="social-icon d-flex align-items-center justify-content-center">
+                        <span class="text-white me-3">Share:</span>
+
+                        <li class="social-icon-item">
+                            <a href="#" class="social-icon-link">
+                                <span class="bi-facebook"></span>
+                            </a>
+                        </li>
+
+                        <li class="social-icon-item">
+                            <a href="#" class="social-icon-link">
+                                <span class="bi-twitter"></span>
+                            </a>
+                        </li>
+
+                        <li class="social-icon-item">
+                            <a href="#" class="social-icon-link">
+                                <span class="bi-instagram"></span>
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="video-wrap">
+
+        <iframe class="custom-video w-100 h-100" src="{{trailerUrl}}?autoplay=1&mute=1&controls=0" title="{{title}}"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen></iframe>
+
+    </div>
+</section>
+{{/with}}
+<div id="main-container">
+        <!-- NEWEST IN THEATERS -->
+    <div class="container d-flex flex-column">
+        <div class="container-title d-flex justify-content-between align-items-center">
+            <h5>LATEST IN THEATERS</h5>
+            <a href="/movies?type=1">VIEW ALL</a>
+        </div>
+        <div class="slider-container">
+            <div class="slider" id="slider1">
+                {{#each latestMovies}}
+                <!-- Movie -->
+                <div class="movie-container slider-content bg-dark d-flex flex-column">
+                    <a href="/movies/{{id}}">
+                        <img class="rounded w-100 h-100" src="{{posterUrl}}" style="
+                                object-fit:cover;
+                                object-position:center;
+                            " alt="Card image cap">
+                    </a>
+
+                    <div>
+                        <h6><a href="/movies/{{id}}" class="movie-title">{{title}}</a></h6>
+                        <div class="movie-rating">
+                            <div class="d-flex align-items-center justify-content-center">
+                                <img width="15" height="15" src="https://img.icons8.com/fluency/48/star.png"
+                                    alt="star" />
+                                <span>{{score}}</span>
+                            </div>
+
+                            <div class="d-flex align-items-center justify-content-center">
+                                <img width="15" height="15"
+                                    src="https://img.icons8.com/external-creatype-glyph-colourcreatype/64/40C057/external-arrow-miscellaneous-user-interface-v2-creatype-glyph-colourcreatype-2.png"
+                                    alt="up" />
+                                <span>{{positiveRate}}%</span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                {{/each}}
+            </div>
+            <button class="slider-button right-button" data-slider="slider1"><b>&rsaquo;</b></button>
+            <button class="slider-button left-button" data-slider="slider1"><b>&lsaquo;</b></button>
+        </div>
+    </div>
+
+
+    <!-- POPULAR IN THEATERS -->
+    <div class="container d-flex flex-column">
+        <div class="container-title d-flex justify-content-between align-items-center">
+            <h5>POPULAR IN THEATERS</h5>
+            <a href="/movies?type=4">VIEW ALL</a>
+        </div>
+        <div class="slider-container">
+            <div class="slider" id="slider1">
+                {{#each popularMovie}}
+                <!-- Movie -->
+                <div class="movie-container slider-content bg-dark d-flex flex-column">
+                    <a href="/movies/{{id}}">
+                        <img class="movie-img" src="{{posterUrl}}" alt="{{title}}">
+                    </a>
+
+                    <div>
+                        <h6><a href="/movies/{{id}}" class="movie-title">{{title}}</a></h6>
+                        <div class="movie-rating">
+                            <div class="d-flex align-items-center justify-content-center">
+                                <img width="15" height="15" src="https://img.icons8.com/fluency/48/star.png"
+                                    alt="star" />
+                                <span>{{score}}</span>
+                            </div>
+
+                            <div class="d-flex align-items-center justify-content-center">
+                                <img width="15" height="15"
+                                    src="https://img.icons8.com/external-creatype-glyph-colourcreatype/64/40C057/external-arrow-miscellaneous-user-interface-v2-creatype-glyph-colourcreatype-2.png"
+                                    alt="up" />
+                                <span>{{positiveRate}}%</span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                {{/each}}
+            </div>
+            <button class="slider-button right-button" data-slider="slider1"><b>&rsaquo;</b></button>
+            <button class="slider-button left-button" data-slider="slider1"><b>&lsaquo;</b></button>
+        </div>
+    </div>
+
+    <!-- OUR TOP RATINGS -->
+    <div class="container d-flex flex-column">
+        <div class="container-title d-flex justify-content-between align-items-center">
+            <h5>OUR TOP RATINGS</h5>
+            <a href="/movies?type=2">VIEW ALL</a>
+        </div>
+        <div class="slider-container">
+            <div class="slider" id="slider2">
+                {{#each topRatingMovies}}
+                <!-- Movie -->
+                <div class="movie-container slider-content bg-dark d-flex flex-column">
+                    <a href="/movies/{{id}}">
+                        <img class="movie-img" src="{{posterUrl}}" alt="Card image cap">
+                    </a>
+
+                    <div>
+                        <h6><a href="/movies/{{id}}" class="movie-title">{{title}}</a></h6>
+                        <div class="movie-rating">
+                                                        <div class="d-flex align-items-center justify-content-center">
+                                <img width="15" height="15" src="https://img.icons8.com/fluency/48/star.png"
+                                    alt="star" />
+                                <span>{{score}}</span>
+                            </div>
+
+                            <div class="d-flex align-items-center justify-content-center">
+                                <img width="15" height="15"
+                                    src="https://img.icons8.com/external-creatype-glyph-colourcreatype/64/40C057/external-arrow-miscellaneous-user-interface-v2-creatype-glyph-colourcreatype-2.png"
+                                    alt="up" />
+                                <span>{{positiveRate}}%</span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                {{/each}}
+            </div>
+            <button class="slider-button right-button" data-slider="slider2"><b>&rsaquo;</b></button>
+            <button class="slider-button left-button" data-slider="slider2"><b>&lsaquo;</b></button>
+        </div>
+    </div>
+
+    <!-- RECOMMENDATIONS FOR YOU -->
+    <div class="container d-flex flex-column">
+        <div class="container-title d-flex justify-content-between align-items-center">
+            <h5>RECOMMENDATIONS FOR YOU</h5>
+            <a href="#">VIEW ALL</a>
+        </div>
+        <div class="slider-container">
+            <div class="slider" id="slider3">
+                {{#each recommendedMovies}}
+                <!-- Movie -->
+                <div class="movie-container slider-content bg-dark d-flex flex-column">
+                    <a href="/movies/{{id}}">
+                        <img class="movie-img" src="{{posterUrl}}"  alt="Card image cap">
+                    </a>
+                    <div>
+                        <h6><a href="/movies/{{id}}" class="movie-title">{{title}}</a></h6>
+                        <div class="movie-rating">
+                            <div class="d-flex align-items-center justify-content-center">
+                                <img width="15" height="15" src="https://img.icons8.com/fluency/48/star.png"
+                                    alt="star" />
+                                <span>{{score}}</span>
+                            </div>
+
+                            <div class="d-flex align-items-center justify-content-center">
+                                <img width="15" height="15"
+                                    src="https://img.icons8.com/external-creatype-glyph-colourcreatype/64/40C057/external-arrow-miscellaneous-user-interface-v2-creatype-glyph-colourcreatype-2.png"
+                                    alt="up" />
+                                <span>{{positiveRate}}%</span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                {{/each}}
+            </div>
+            <button class="slider-button right-button" data-slider="slider3"><b>&rsaquo;</b></button>
+            <button class="slider-button left-button" data-slider="slider3"><b>&lsaquo;</b></button>
+        </div>
+    </div>
+
+    <!-- RECENT REVIEWS  -->
+    <div class="container d-flex flex-column">
+        <div class="container-title d-flex justify-content-between align-items-center">
+            <h5>RECENT REVIEWS</h5>
+            {{!-- <a href="#">VIEW ALL</a> --}}
+        </div>
+        {{#each latestReviews}}
+        <div class="container review-container">
+            <div class="row">
+                <a href="/movies/{{movieId}}" class = "review-poster">
+                    <img class="rounded"  src="{{Movie.posterUrl}}" alt="Card image cap">
+                </a>
+                <div class="col">
+                    <div class="row">
+                        <div class="col-10 p-0"><span class="review-title"><a href="/movies/{{movieId}}">{{Movie.title}}</a> <span
+                                    class="review-year">{{formatTime Movie.releaseYear "YYYY"}}</span></span></div>
+                        <div class="col-2">
+                            {{#if pos}}
+                            <span class="positive">
+                                {{eval}}
+                            </span>
+                            {{else}}
+                            <span class="negative">
+                                {{eval}}
+                            </span>
+                            {{/if}}
+                        </div>
+                    </div>
+                    <div class="row review-reviewer">{{User.displayName}}</div>
+                    <div class="row review-content">{{{content}}}</div>
+                </div>
+            </div>
+        </div>
+        {{/each}}
+        <div style="padding: 50px;">
+
+        </div>
+    </div>
+</div>
+
+{{> footer}}
+<script src="/js/index.js"></script>

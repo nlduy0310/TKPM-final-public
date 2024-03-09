@@ -1,0 +1,518 @@
+[
+    {
+        "title": "A Beautiful Life",
+        "releaseYear": "2023-06-01",
+        "length": "1h 38m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BMGUyYjQwMjAtZWYxOS00NzQzLTgwMjItZDk2YzJmOWQ3NTFmXkEyXkFqcGdeQXVyMTUyMzg5NzM2._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/8Yt1D8rj_RA",
+        "plot": "Elliott, a young fisherman with an extraordinary voice, gets the chance of a lifetime when high-profile music manager Suzanne discovers him at a party.",
+        "imdbScore": 6.4,
+        "contentRating": "TV-MA"
+    },
+    {
+        "title": "Air",
+        "releaseYear": "2023-04-05",
+        "length": "1h 51m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BYmNlOTNlYjUtM2U3Yy00M2ZjLTkxZDQtN2NiNGZiZDI0ZjE3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/Euy4Yu6B3nU",
+        "plot": "Follows the history of sports marketing executive Sonny Vaccaro, and how he led Nike in its pursuit of the greatest athlete in the history of basketball, Michael Jordan.",
+        "imdbScore": 7.5,
+        "contentRating": "C16"
+    },
+    {
+        "title": "Asteroid City",
+        "releaseYear": "2023-06-23",
+        "length": "1h 45m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BNDJmMzY0ZGUtYWE1My00OWViLTg1NTctOWMwZWJlNDQzNGRiXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/9FXCSXuGTF4",
+        "plot": "Following a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever.",
+        "imdbScore": 7.1,
+        "contentRating": "PG-13"
+    },
+    {
+        "title": "Avatar: The Way of Water",
+        "releaseYear": "2022-12-16",
+        "length": "3h 12m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/d9MyW72ELq0",
+        "plot": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home.",
+        "imdbScore": 7.6,
+        "contentRating": "C13"
+    },
+    {
+        "title": "Barbie",
+        "releaseYear": "2023-07-21",
+        "length": "1h 54m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjFlMDA2ZmUtYjE2OC00ZmYzLTg3MDYtODY4MGU3NzRhMzNhXkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/pBk4NYhWNMM",
+        "plot": "Barbie suffers a crisis that leads her to question her world and her existence.",
+        "imdbScore": null,
+        "contentRating": "(Banned)"
+    },
+    {
+        "title": "Beau Is Afraid",
+        "releaseYear": "2023-04-21",
+        "length": "2h 59m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BYTNhNWRmMDctYzE4OS00MzczLWJkODgtNzYxZTQxM2Y1YmM3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/PuiWDn976Ek",
+        "plot": "Following the sudden death of his mother, a mild-mannered but anxiety-ridden man confronts his darkest fears as he embarks on an epic, Kafkaesque odyssey back home.",
+        "imdbScore": 6.9,
+        "contentRating": "R"
+    },
+    {
+        "title": "Black Clover: Sword of the Wizard King",
+        "releaseYear": "2023-06-16",
+        "length": "1h 50m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjU0MWMzNTctMjM5MC00MmVhLWIzZjQtYzk3OGRiYjQ2NDk2XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/ihFHJ1tgKWk",
+        "plot": "In a world where magic is everything, Asta, a boy who was born with no magic, aims to become the \"Wizard King,\" to overcome adversity, prove his power, and keep his oath with his friends.",
+        "imdbScore": 7.5,
+        "contentRating": "TV-14"
+    },
+    {
+        "title": "BlackBerry",
+        "releaseYear": "2023-05-12",
+        "length": "2h",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BMDNhZWU4NTQtYjk1NS00MTM1LTg3ODYtMzE0MjQ2YTI5MGM4XkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/fOj0lRfKiVE",
+        "plot": "The story of the meteoric rise and catastrophic demise of the world's first smartphone.",
+        "imdbScore": 7.4,
+        "contentRating": "R"
+    },
+    {
+        "title": "Blood & Gold",
+        "releaseYear": "2023-01-01",
+        "length": "1h 38m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BOTVlMDI5NDMtOGE1Zi00ZmEwLTg3NDQtMzgxOWNkNWE5YmE2XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UY281_CR22,0,190,281_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/eDsrUYd2VbE",
+        "plot": "At the end of World War II, a German soldier is looking for his daughter while an SS troop is looking for a Jewish treasure.",
+        "imdbScore": 6.5
+    },
+    {
+        "title": "Champions",
+        "releaseYear": "2023-03-10",
+        "length": "2h 4m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BOTYwMWJjZTgtMzJiNS00OGIzLWE1NDYtNjgwMDUwYjZiOTc5XkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/pCHiWnj5Oek",
+        "plot": "A former minor-league basketball coach is ordered by the court to manage a team of players with intellectual disabilities. He soon realizes that despite his doubts, together, this team can go further than they ever imagined.",
+        "imdbScore": 6.7,
+        "contentRating": "PG-13"
+    },
+    {
+        "title": "Chevalier",
+        "releaseYear": "2023-04-06",
+        "length": "1h 48m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BNDU5OTBhNzEtYjllNS00Y2RkLWEzYTgtOTRmMGZhOTYyYmMwXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/-LtCIImfSCk",
+        "plot": "Based on factual story of composer Joseph Bologne, Chevalier de Saint-Georges, the illegitimate son of an African enslaved and a French plantation owner, who rises to heights in French society as a composer before an ill-fated love affair.",
+        "imdbScore": 6.6,
+        "contentRating": "PG-13"
+    },
+    {
+        "title": "Creed III",
+        "releaseYear": "2023-03-03",
+        "length": "1h 56m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BYzIxOTk1NDQtMzJlOC00ODZlLWE1YTAtNTA5ODZlZmZmMDBhXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/AHmCH7iB_IM",
+        "plot": "Adonis has been thriving in both his career and family life, but when a childhood friend and former boxing prodigy resurfaces, the face-off is more than just a fight.",
+        "imdbScore": 6.8,
+        "contentRating": "C13"
+    },
+    {
+        "title": "Django Unchained",
+        "releaseYear": "2013-03-15",
+        "length": "2h 45m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/0fUCuvNlOCg",
+        "plot": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi.",
+        "imdbScore": 8.4,
+        "contentRating": "R"
+    },
+    {
+        "title": "Elemental",
+        "releaseYear": "2023-06-16",
+        "length": "1h 41m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjYxYWVjMDMtZGRjZS00ZDE4LTk0OWUtMjUyOTI4MmYxNjgwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/hXzcyx9V0xw",
+        "plot": "Follows Ember and Wade, in a city where fire-, water-, land- and air-residents live together.",
+        "imdbScore": 7.1,
+        "contentRating": "PG"
+    },
+    {
+        "title": "Evil Dead Rise",
+        "releaseYear": "2023-04-21",
+        "length": "1h 36m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BMmZiN2VmMjktZDE5OC00ZWRmLWFlMmEtYWViMTY4NjM3ZmNkXkEyXkFqcGdeQXVyMTI2MTc2ODM3._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/smTK_AeAPHs",
+        "plot": "A twisted tale of two estranged sisters whose reunion is cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable.",
+        "imdbScore": 6.6,
+        "contentRating": "R"
+    },
+    {
+        "title": "Extraction",
+        "releaseYear": "2020-04-24",
+        "length": "1h 56m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BMDJiNzUwYzEtNmQ2Yy00NWE4LWEwNzctM2M0MjE0OGUxZTA3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/Y274jZs5s7s",
+        "plot": "Tyler Rake, a fearless black market mercenary, embarks on the most deadly extraction of his career when he's enlisted to rescue the kidnapped son of an imprisoned international crime lord.",
+        "imdbScore": 6.8,
+        "contentRating": "C18"
+    },
+    {
+        "title": "Extraction 2",
+        "releaseYear": "2023-06-16",
+        "length": "2h 2m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjg5MTM4N2QtN2RlMS00NzBlLTg3NDktM2ExZDNmMmExMGU3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/Y274jZs5s7s",
+        "plot": "After barely surviving his grievous wounds from his mission in Dhaka, Bangladesh, Tyler Rake is back, and his team is ready to take on their next mission.",
+        "imdbScore": 7.1,
+        "contentRating": "C18"
+    },
+    {
+        "title": "Fast X",
+        "releaseYear": "2023-05-17",
+        "length": "2h 21m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BNzZmOTU1ZTEtYzVhNi00NzQxLWI5ZjAtNWNhNjEwY2E3YmZjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/eoOaKN4qCKw",
+        "plot": "Dom Toretto and his family are targeted by the vengeful son of drug kingpin Hernan Reyes.",
+        "imdbScore": 5.9,
+        "contentRating": "C16"
+    },
+    {
+        "title": "Flamin' Hot",
+        "releaseYear": "2023-01-01",
+        "length": "1h 39m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BMWQ0NWQ4MzEtZGQ3Yi00NGQ5LWJlMDAtNjQzMGUxMjM3Mzg0XkEyXkFqcGdeQXVyMTU5OTc2NTk@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/it7sNRloq-A",
+        "plot": "This is the inspiring \"true\" story of Richard Monta\u00f1ez who, as a Frito Lay janitor, disrupted the food industry by channeling his Mexican heritage to turn Flamin' Hot Cheetos from a snack into an iconic global pop culture phenomenon.",
+        "imdbScore": 6.9
+    },
+    {
+        "title": "Flaxy Martin",
+        "releaseYear": "1949-02-15",
+        "length": "1h 26m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BNTNhNmMwYTAtNTQ5Yi00NzI5LWFhNGEtYzVmMDVjMjc2OTJjXkEyXkFqcGdeQXVyMTIxOTk5MzY@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/xRjNM-gkv_o",
+        "plot": "Mob attorney Walter Colby is manipulated by showgirl Flaxy Martin into taking the rap for a murder committed by mobster Hap Richie's goons but he escapes and tries to get revenge.",
+        "imdbScore": 6.5,
+        "contentRating": "G"
+    },
+    {
+        "title": "Guy Ritchie's The Covenant",
+        "releaseYear": "2023-01-01",
+        "length": "2h 3m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BNmQzOWZhOTMtZTcxNC00MTdkLWEwYmUtOWVmOTFhNTdkNjRkXkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/02PPMPArNEQ",
+        "plot": "During the war in Afghanistan, a local interpreter risks his own life to carry an injured sergeant across miles of grueling terrain.",
+        "imdbScore": 7.5
+    },
+    {
+        "title": "Heart of Stone",
+        "releaseYear": "2023-08-11",
+        "length": "2h 2m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BYmQ2NWI1MWEtMTFhMC00ZmJmLWIxN2EtZDNiNWIwMDY4NjY0XkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/XuDwndGaCFo",
+        "plot": "An intelligence operative for a shadowy global peacekeeping agency races to stop a hacker from stealing its most valuable and dangerous weapon.",
+        "imdbScore": null,
+        "contentRating": "PG-13"
+    },
+    {
+        "title": "Inglourious Basterds",
+        "releaseYear": "2009-11-13",
+        "length": "2h 33m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/KnrRy6kSFF0",
+        "plot": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+        "imdbScore": 8.3,
+        "contentRating": "R"
+    },
+    {
+        "title": "John Wick: Chapter 4",
+        "releaseYear": "2023-03-23",
+        "length": "2h 49m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BMDExZGMyOTMtMDgyYi00NGIwLWJhMTEtOTdkZGFjNmZiMTEwXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/qEVUtrk8_B4",
+        "plot": "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+        "imdbScore": 7.9,
+        "contentRating": "R"
+    },
+    {
+        "title": "Kansas City Confidential",
+        "releaseYear": "1952-11-11",
+        "length": "1h 39m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjFkNmQ4ODUtZTI4MC00MWViLTkyODktMjE1ZTcxNmVmYmQ3XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/3MqGEAmcsLw",
+        "plot": "An ex-con trying to go straight is framed for a million dollar armored car robbery and must go to Mexico in order to unmask the real culprits.",
+        "imdbScore": 7.3,
+        "contentRating": "Not Rated"
+    },
+    {
+        "title": "Killers of the Flower Moon",
+        "releaseYear": "2023-10-20",
+        "length": "3h 26m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BZmMyMDc4NWMtZmUzNC00ZjczLWE1ZmYtYWQ3ZTk4ODBmYzE2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/nFoIg72KGIk",
+        "plot": "Members of the Osage tribe in the United States are murdered under mysterious circumstances in the 1920s, sparking a major F.B.I. investigation involving J. Edgar Hoover.",
+        "imdbScore": null,
+        "contentRating": "R"
+    },
+    {
+        "title": "Midsommar",
+        "releaseYear": "2019-07-03",
+        "length": "2h 28m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/1Vnghdsjmd0",
+        "plot": "A couple travels to Northern Europe to visit a rural hometown's fabled Swedish mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult.",
+        "imdbScore": 7.1,
+        "contentRating": "R"
+    },
+    {
+        "title": "No Hard Feelings",
+        "releaseYear": "2023-06-23",
+        "length": "1h 43m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjg3N2M3OWUtZGQ3NC00OGI1LTllZDUtMTdiYWQxMTk0YTg2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/P15S6ND8kbQ",
+        "plot": "On the brink of losing her home, Maddie finds an intriguing job listing: helicopter parents looking for someone to bring their introverted 19-year-old son out of his shell before college. She has one summer to make him a man or die trying.",
+        "imdbScore": 6.8,
+        "contentRating": "C18"
+    },
+    {
+        "title": "Oppenheimer",
+        "releaseYear": "2023-08-04",
+        "length": "3h",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BMGIwMjY4ZTItOTZmNC00OTg0LWJlZDQtMGFmZTZhMGVhMDRkXkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/uYPbbksJxIg",
+        "plot": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+        "imdbScore": null,
+        "contentRating": "R"
+    },
+    {
+        "title": "Peter Pan & Wendy",
+        "releaseYear": "2023-01-01",
+        "length": "1h 46m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BZTIzNTQ0ZTYtZGIwOC00NzIxLWI0OWMtY2JlNTNiOTM1MWZhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/p-5sVX7MRj8",
+        "plot": "Follow the adventures of Peter Pan, a boy who does not want to grow up, and how he recruits three siblings in London, and together they embark on a magical adventure on the enchanted island of Neverland.",
+        "imdbScore": 4.4
+    },
+    {
+        "title": "Pitch Perfect",
+        "releaseYear": "2012-10-05",
+        "length": "1h 52m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTcyMTMzNzE5N15BMl5BanBnXkFtZTcwNzg5NjM5Nw@@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/8dItOM6eYXY",
+        "plot": "Beca, a freshman at Barden University, is cajoled into joining The Bellas, her school's all-girls singing group. Injecting some much needed energy into their repertoire, The Bellas take on their male rivals in a campus competition.",
+        "imdbScore": 7.1,
+        "contentRating": "PG-13"
+    },
+    {
+        "title": "Repeat Performance",
+        "releaseYear": "1947-09-15",
+        "length": "1h 31m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTI2NjA5NTYtMWE3OC00NzBlLThmODItMGQ3NzhhOWU5OTA1XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/BOoEc91MtI8",
+        "plot": "On New Year's Eve 1946, Sheila Page kills her husband Barney. She wishes that she could relive 1946 and avoid the mistakes that she made throughout the year. Her wish comes true but cheating fate proves more difficult than she anticipated.",
+        "imdbScore": 6.8,
+        "contentRating": "G"
+    },
+    {
+        "title": "Shazam! Fury of the Gods",
+        "releaseYear": "2023-03-17",
+        "length": "2h 10m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BNzJlM2NmZTItOGQyYS00MmE2LTkwZGUtNDFkNmJmZjRjZjcxXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/Zi88i4CpHe4",
+        "plot": "The film continues the story of teenage Billy Batson who, upon reciting the magic word \"SHAZAM!\" is transformed into his adult Super Hero alter ego, Shazam.",
+        "imdbScore": 6.0,
+        "contentRating": "C13"
+    },
+    {
+        "title": "Sisu",
+        "releaseYear": "2023-01-27",
+        "length": "1h 31m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BMWYwMzNkOWEtNjA3YS00YjE5LTlkMjYtMmRjMjExNjA1NDM0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/2NnPzpuU5ao",
+        "plot": "When an ex-soldier who discovers gold in the Lapland wilderness tries to take the loot into the city, Nazi soldiers led by a brutal SS officer battle him.",
+        "imdbScore": 6.9,
+        "contentRating": "C18"
+    },
+    {
+        "title": "Spider-Man: Across the Spider-Verse",
+        "releaseYear": "2023-06-01",
+        "length": "2h 20m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BMWU1MTM1ZmQtZWMxNi00ZjBiLWJiNWItZGQ5ZDhjM2VkMTI2XkEyXkFqcGdeQXVyNTg5NjcwNjY@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/shW9i6k8cB0",
+        "plot": "Miles Morales catapults across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. When the heroes clash on how to handle a new threat, Miles must redefine what it means to be a hero.",
+        "imdbScore": 8.9,
+        "contentRating": "PG"
+    },
+    {
+        "title": "Spider-Man: Into the Spider-Verse",
+        "releaseYear": "2018-12-14",
+        "length": "1h 57m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/g4Hbz2jLxvQ",
+        "plot": "Teen Miles Morales becomes the Spider-Man of his universe and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+        "imdbScore": 8.4,
+        "contentRating": "P"
+    },
+    {
+        "title": "Sunset Blvd.",
+        "releaseYear": "1950-08-04",
+        "length": "1h 50m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/_dY0SVxnHjQ",
+        "plot": "A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.",
+        "imdbScore": 8.4,
+        "contentRating": "G"
+    },
+    {
+        "title": "Surrounded",
+        "releaseYear": "2023-06-20",
+        "length": "1h 40m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BODU0MTQzZTUtYWRmZi00MzhmLWIyODItYjliMDgxNDdiMWI3XkEyXkFqcGdeQXVyMTM3Mjc5MjA4._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/h1PcWQcsQuE",
+        "plot": "Former Buffalo Soldier Mo Washington travels West to lay claim on a gold mine. After her stagecoach is ambushed, Mo is tasked with holding a dangerous outlaw captive and must survive the day when the bandit's gang tries to free him.",
+        "imdbScore": 5.6,
+        "contentRating": "R"
+    },
+    {
+        "title": "The Ballad of Buster Scruggs",
+        "releaseYear": "2018-11-09",
+        "length": "2h 13m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BYjRkYTI3M2EtZWQ4Ny00OTA2LWFmMTMtY2E4MTEyZmNjOTMxXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/_2PyxzSH1HM",
+        "plot": "Six tales of life and violence in the Old West, following a singing gunslinger, a bank robber, a traveling impresario, an elderly prospector, a wagon train, and a perverse pair of bounty hunters.",
+        "imdbScore": 7.3,
+        "contentRating": "C18"
+    },
+    {
+        "title": "The Blackening",
+        "releaseYear": "2023-06-16",
+        "length": "1h 37m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BMGMzNzEyZWItYjUwZC00NmVkLTk5MWUtZGVjNWJlMjBjODA4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/moiRCJR4ToY",
+        "plot": "Seven Black friends go away for the weekend and end up trapped in a cabin with a killer who has a vendetta. Will their street smarts and knowledge of horror movies help them stay alive? Probably not.",
+        "imdbScore": 6.5,
+        "contentRating": "R"
+    },
+    {
+        "title": "The Boogeyman",
+        "releaseYear": "2023-06-02",
+        "length": "1h 38m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BNzNkYmE1NDYtMmI4Mi00YjU2LTkxZDEtMWI0ZDE4MTczZDRjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/cFqCmIU0-_M",
+        "plot": "Still reeling from the tragic death of their mother, a teenage girl and her younger sister find themselves plagued by a sadistic presence in their house and struggle to get their grieving father to pay attention before it's too late.",
+        "imdbScore": 6.1,
+        "contentRating": "C16"
+    },
+    {
+        "title": "The Flash",
+        "releaseYear": "2023-06-15",
+        "length": "2h 24m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BZWE2ZWE5MDQtMTJlZi00MTVjLTkxOTgtNmNiYjg2NDIxN2NhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/cvn0h6cuUPQ",
+        "plot": "Barry Allen uses his super speed to change the past, but his attempt to save his family creates a world without super heroes, forcing him to race for his life in order to save the future.",
+        "imdbScore": 7.2,
+        "contentRating": "C16"
+    },
+    {
+        "title": "The Little Mermaid",
+        "releaseYear": "2023-05-26",
+        "length": "2h 15m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BOWQyM2IzNWUtNzlkZS00MWY4LWIyYjUtNWY3MWQ2YTFiNjJjXkEyXkFqcGdeQXVyNzgwNzgxNzc@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/kpGo2_d3oYE",
+        "plot": "A young mermaid makes a deal with a sea witch to trade her beautiful voice for human legs so she can discover the world above water and impress a prince.",
+        "imdbScore": 7.2,
+        "contentRating": "PG"
+    },
+    {
+        "title": "The Naked City",
+        "releaseYear": "1948-03-04",
+        "length": "1h 36m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BNzlmZDZiYWEtOTFkOC00Yjg5LTlkNjYtMjRkZGNmMTgwNDE3XkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/2ZXMwPFnGjM",
+        "plot": "A step-by-step look at a murder investigation on the streets of New York.",
+        "imdbScore": 7.6,
+        "contentRating": "Not Rated"
+    },
+    {
+        "title": "The Super Mario Bros. Movie",
+        "releaseYear": "2023-04-07",
+        "length": "1h 32m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BOTJhNzlmNzctNTU5Yy00N2YwLThhMjQtZDM0YjEzN2Y0ZjNhXkEyXkFqcGdeQXVyMTEwMTQ4MzU5._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/TnGl01FkMMo",
+        "plot": "A plumber named Mario travels through an underground labyrinth with his brother, Luigi, trying to save a captured princess.",
+        "imdbScore": 7.1,
+        "contentRating": "P"
+    },
+    {
+        "title": "The Wrath of Becky",
+        "releaseYear": "2023-05-25",
+        "length": "1h 24m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BZDUzMDA1ZjctZjJkNi00YmRmLTk5NzctNjMwNTEzMjAwMTE3XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/Q-RnvQACrH0",
+        "plot": "Two years after escaping a violent attack, a teenage girl must defend herself against a terrorist cell.",
+        "imdbScore": 6.0,
+        "contentRating": "R"
+    },
+    {
+        "title": "Titanic",
+        "releaseYear": "1997-12-19",
+        "length": "3h 14m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/kVrqfYjkTdQ",
+        "plot": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+        "imdbScore": 7.9,
+        "contentRating": "P"
+    },
+    {
+        "title": "Tombstone",
+        "releaseYear": "1993-12-25",
+        "length": "2h 10m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BODRkYzA4MGItODE2MC00ZjkwLWI2NDEtYzU1NzFiZGU1YzA0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/XTWYKf5hXIg",
+        "plot": "A successful lawman's plans to retire anonymously in Tombstone, Arizona are disrupted by the kind of outlaws he was famous for eliminating.",
+        "imdbScore": 7.8,
+        "contentRating": "R"
+    },
+    {
+        "title": "Transformers: Rise of the Beasts",
+        "releaseYear": "2023-06-09",
+        "length": "2h 7m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BZTNiNDA4NmMtNTExNi00YmViLWJkMDAtMDAxNmRjY2I2NDVjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/itnqEauWQZM",
+        "plot": "During the '90s, a new faction of Transformers - the Maximals - join the Autobots as allies in the battle for Earth.",
+        "imdbScore": 6.5,
+        "contentRating": "C13"
+    },
+    {
+        "title": "T\u00e1r",
+        "releaseYear": "2022-10-28",
+        "length": "2h 38m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BM2I0ZDcyYzItMGEyNi00YWVhLTlmNTQtOWVlYjE1ZGVhNWM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/Na6gA1RehsU",
+        "plot": "Set in the international world of Western classical music, the film centers on Lydia T\u00e1r, widely considered one of the greatest living composer-conductors and the very first female director of a major German orchestra.",
+        "imdbScore": 7.5,
+        "contentRating": "R"
+    },
+    {
+        "title": "Unbroken",
+        "releaseYear": "2015-02-20",
+        "length": "2h 17m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTY3ODg2OTgyOF5BMl5BanBnXkFtZTgwODk1OTAwMzE@._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/XrjJbl7kRrI",
+        "plot": "After a near-fatal plane crash in WWII, Olympian Louis Zamperini spends a harrowing 47 days in a raft with two fellow crewmen before he's caught by the Japanese navy and sent to a prisoner-of-war camp.",
+        "imdbScore": 7.2,
+        "contentRating": "C16"
+    },
+    {
+        "title": "X",
+        "releaseYear": "2022-03-18",
+        "length": "1h 45m",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTJiMmE5YWItOWZjYS00YTg0LWE0MTYtMzg2ZTY4YjNkNDEzXkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/Awg3cWuHfoc",
+        "plot": "In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives.",
+        "imdbScore": 6.6,
+        "contentRating": "R"
+    }
+]

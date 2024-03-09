@@ -1,0 +1,149 @@
+.alert {
+    padding: 20px;
+    background-color: #f44336;
+    color: white;
+    opacity: 1;
+    transition: opacity 0.6s;
+    margin-bottom: 15px;
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.alert.success {
+    background-color: #04AA6D;
+}
+
+.alert.info {
+    background-color: #2196F3;
+}
+
+.alert.warning {
+    background-color: #ff9800;
+}
+
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.closebtn:hover {
+    color: black;
+}
+
+
+/* Dropdown */
+.dropbtn {
+    background-color: transparent;
+    color: white;
+    padding: 16px;
+    font-size: 25px;
+    border: none;
+    cursor: pointer;
+    z-index: 2;
+    font-weight: 500;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: black;
+    width: 200px;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 9999;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    cursor: pointer;
+}
+
+.dropdown-content a {
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown-content a:last-child{
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.dropdown-content a:hover {
+    background-color: #2c2c2c;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.username--header{
+    font-size: 20px;
+    margin-right: 7.5px;
+}
+
+.dropdown:hover .dropbtn {
+    
+}
+
+#search-form--header{
+    display: flex;
+    position: relative;
+    border: 1px solid slategray;
+    border-radius: 5px;
+    height: 40px;
+    opacity: 0.8;
+}
+
+#search-form--header:hover{
+    opacity: 1;
+}
+
+.search-field{
+    width: 100%;
+    background-color: transparent;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    outline: none;
+}
+
+#search-form--header button{
+    height: 40px;
+    position: absolute;
+    right: 5px;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: transparent;
+    border: none;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+
+}
+
+#search-form--header i{
+    color: slategray;
+    text-align: center;
+}
+
+#search-form--header i:hover{
+    color: lightgray;
+}

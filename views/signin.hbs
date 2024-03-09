@@ -1,0 +1,74 @@
+<title>Sign Up</title>
+
+<!-- Font Icon -->
+<link rel="stylesheet" href="/fonts/material-icon/css/material-design-iconic-font.min.css">
+
+<!-- Main css -->
+<link rel="stylesheet" href="/css/style.css">
+<div class="main">
+    <!-- Sing in  Form -->
+    <section class="sign-in">
+        <div class="container">
+            <div class="signin-content">
+                <div class="signin-image">
+                    <figure><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxkdDcxNDd2bWlzZDV5OXpqNTI2bHF0ZTBpMXdwbzFveDM0cW82aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9tZc9Mzo9K0yOYx38U/200.gif" alt="sing up image" style="border-radius: 15px;"></figure>
+                    <a href="/users/register" class="signup-image-link">Create an account</a>
+                    <a href="/" class="signup-image-link">Maybe I don't need to sign in</a>
+                </div>
+
+                <div class="signin-form">
+                    <h2 class="form-title d-flex justify-content-center">Sign in</h2>
+                    <form method="POST" class="register-form" id="login-form">
+                        <div class="form-group">
+                            <label for="email"><i class="zmdi zmdi-account material-icons-name"></i></label>
+                            <input type="text" name="email" id="email" placeholder="Email" />
+                        </div>
+                        <div class="form-group">
+                            <label for="password"><i class="zmdi zmdi-lock"></i></label>
+                            <input type="password" name="password" id="password" placeholder="Password" required />
+                        </div>
+                        {{!-- <div class="form-group">
+                            <input type="checkbox" name="remember-me" id="remember-me" class="agree-term" />
+                            <label for="remember-me" class="label-agree-term"><span><span></span></span>Remember
+                                me</label>
+                        </div> --}}
+                        <div class="form-group form-button d-flex justify-content-center">
+                            <input type="submit" name="signin" id="signin" class="form-submit" value="Log in" />
+                        </div>
+                    </form>
+                    <div class="social-login">
+                        <span class="social-label">Or login with</span>
+                        <ul class="socials">
+                            <li><a href="/users/facebook-login"><i class="display-flex-center zmdi zmdi-facebook"></i></a></li>
+                            <li><a href="#"><i class="display-flex-center zmdi zmdi-twitter"></i></a></li>
+                            <li><a href="#"><i class="display-flex-center zmdi zmdi-google"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    {{#if loginMessage}}
+    <div class="alert warning">
+        <span class="closebtn">&times;</span>
+        {{{loginMessage}}}
+    </div>
+    {{/if}}
+    </main>
+
+    <script>
+        var close = document.getElementsByClassName("closebtn"); var i; for (i = 0; i
+            < close.length; i++) {
+            close[i].onclick = function () {
+                var div =
+                    this.parentElement; div.style.opacity = "0"; setTimeout(function () {
+                        div.style.display = "none";
+                    }, 600);
+            }
+        }
+    </script>
+</div>
+
+<!-- JS -->
+<script src="/vendor/jquery/jquery.min.js"></script>
+<script src="/js/main.js"></script>

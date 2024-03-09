@@ -1,0 +1,275 @@
+<link rel="stylesheet" href="/css/review.css">
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v17.0" nonce="cmeF6Ls2"></script>
+{{> nav}}
+<!-- <div class = "navbar-space"></div> -->
+<div id="main-container">
+    <div class="list-film-container" style="margin-right: 40px;">
+        <div class="list-film-header">
+            <div class="header-item" onclick="showFilm(0)">POPULAR</div>
+            <div class="header-item" onclick="showFilm(1)">RATING</div>
+            <div class="header-item" onclick="showFilm(2)">RECOMMENDATION</div>
+        </div>
+
+        <!-- POPULAR -->
+        <div class="list-film">
+            {{#each popularMovies}}
+            <div class="film-item">
+                <div>
+                    <img width="15" height="15" src="https://img.icons8.com/ios-filled/50/228BE6/very-popular-topic.png" alt="very-popular-topic"/>
+                    <span>{{numOfReviews}}</span>
+                </div>
+                <div class="film-title">
+                    <a href="/movies/{{id}}">{{title}}</a>
+                </div>
+            </div>           
+            {{/each}}
+            <a href="/movies/">VIEW ALL</a>
+        </div>
+
+        <!-- RATING -->
+        <div class="list-film">
+            {{#each topRatingMovies}}
+            <div class="film-item">
+                <div>
+                    <img width="15" height="15" src="https://img.icons8.com/fluency/48/star.png" alt="star" />
+                    <span>{{score}}</span>
+                </div>
+                <div class="film-title">
+                    <a href="/movies/{{id}}">{{title}}</a>
+                </div>
+            </div>
+            {{/each}}
+            <a href="/movies/">VIEW ALL</a>
+        </div>
+
+        <!-- RECOMMENDATION -->
+        <div class="list-film">
+            {{#each topPositiveReviewMovies}}
+            <div class="film-item">
+                <div>
+                    <img width="15" height="15" src="https://img.icons8.com/external-creatype-glyph-colourcreatype/64/40C057/external-arrow-miscellaneous-user-interface-v2-creatype-glyph-colourcreatype-2.png" alt="up" />
+                    <span>{{positiveRate}}%</span>
+                </div>
+                <div class="film-title">
+                    <a href="/movies/{{id}}">{{title}}</a>
+                </div>
+            </div>
+            {{/each}}
+            <a href="/movies/">VIEW ALL</a>
+        </div>
+    </div>
+
+    <div class="movie-review-container">
+        {{#with movieDetails}}
+        <div class="movie-trailer">
+            <iframe src="{{trailerUrl}}?controls=0" title="{{title}} Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+
+        <div class="movie-overview">
+            <div class="thumbnail">
+                <img src="{{posterUrl}}" alt="{{title}} Poster">
+            </div>
+
+            <div class="movie-score-container">
+                <div class="movie-title">
+                    {{title}}
+                </div>
+                <div class="movie-category">
+                    <span class="movie-pg">
+                        {{contentRating}}
+                    </span>
+                    {{year}}, {{{ createGenresShort Genres '/'}}}, {{length}}
+                </div>
+                <div class="movie-score">
+
+                    <!-- Review -->
+                    <div>
+                        <div class="score">
+                            <img src="https://img.icons8.com/external-creatype-glyph-colourcreatype/64/40C057/external-arrow-miscellaneous-user-interface-v2-creatype-glyph-colourcreatype-2.png" alt="up" />
+                            <p>
+                                {{positiveRate}}%
+                            </p>
+                        </div>
+                        <div>
+                            C.S REVIEWS
+                        </div>
+                        <a href="#">
+                            Positive Reviews
+                        </a>
+                    </div>
+
+                    <!-- Audience -->
+                    <div>
+                        <div class="score">
+                            <img width="15" height="15" src="https://img.icons8.com/fluency/48/star.png" alt="star" />
+                            <p>
+                                {{score}}
+                            </p>
+                        </div>
+                        <div>
+                            C.S RATINGS
+                        </div>
+                        <a href="#">
+                            Average Ratings
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="movie-info">
+            <div class="title">
+                MOVIE INFO
+            </div>
+            <div class="movie-abstract">
+                {{plot}}
+            </div>
+            <p>
+                <b>Rating: </b>{{contentRating}}
+            </p>
+            <p>
+                <b>Genre: </b>{{{ createGenresShort Genres ', ' }}}
+            </p>
+            <p>
+                <b>Original language: </b>English
+            </p>
+            <p>
+                <b>Director: </b>
+                {{#each directors}}
+                <a href="{{imageUrl}}">{{name}}</a>
+                {{/each}}
+            </p>
+            <p>
+                <b>Writer: </b>
+                {{#each writers}}
+                <a href="{{imageUrl}}">{{name}}</a>
+                {{/each}}
+            </p>
+            <p>
+                <b>Release date (Theaters): </b>{{{formatDate releaseYear 'MMMM Do YYYY'}}}
+            </p>
+            <p>
+                <b>Run time: </b>{{length}}
+            </p>
+            <p>
+                <b>Distributor: </b>Angel Studios
+            </p>
+            <p>
+                <b>Production Co: </b>Santa Fe Films
+            </p>
+            <div class="fb-share-button" data-href="https://soha.vn" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share on Facebook</a></div>
+        </div>
+
+        <div class="movie-cast-crew">
+            <div class="title">
+                CAST & CREW
+            </div>
+            <div class="slider-container">
+                <div class="slider" id="slider1">
+                    {{#each casts}}
+                    <div class="slider-content cast-container">
+                        <a href="#"><img class="cast-img" src="{{imageUrl}}" alt="{{name}}" style="aspect-ratio: 1;">
+                        </a>
+                        <div class="cast-name">
+                            <a href="#">{{name}}</a>
+                        </div>
+                        <div class="cast-role">
+                            {{characters}}
+                        </div>
+                    </div>
+                    {{/each}}
+                    <button class="slider-button right-button" data-slider="slider1"><b>&rsaquo;</b></button>
+                    <button class="slider-button left-button" data-slider="slider1"><b>&lsaquo;</b></button>
+                </div>
+            </div>
+        </div>
+        {{/with}}
+        <div class="movie-rates">
+            <div class="title">
+                RATE AND REVIEW
+            </div>
+            <div class="rate-list" id="rateList">
+                {{#each reviews}}
+                <div class="rate-container">
+                    <div style="display: flex; justify-content: space-between;">
+                        <a href="#">{{User.displayName}}</a>
+                        <div class = "user-rate-container">
+                            <div>
+                            <img width="15" height="15" src="https://img.icons8.com/fluency/48/star.png" alt="star" />
+                           <span> {{score}}</span>
+                            </div>
+                            
+                            <div>
+                                {{!-- <img width="15" height="15" src="https://img.icons8.com/external-creatype-glyph-colourcreatype/64/40C057/external-arrow-miscellaneous-user-interface-v2-creatype-glyph-colourcreatype-2.png" alt="up" /> --}}
+                            
+                            {{#if negative}}
+                            <span class = "negative">{{sentiment}}</span>
+                            {{else}}
+                            <span class = "positive">{{sentiment}}</span>
+                            {{/if}}
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        {{{content}}}
+                    </div>
+                </div>
+                {{/each}}
+            </div>
+            {{#if user}}
+            {{#if commented}}
+            <div class = "notComment">
+                You already rated this movie.
+            </div>
+            {{else}}
+            <form class="rate-comment" action="/movies/review" method="post">
+                <div><img width="30" height="30" src="https://img.icons8.com/fluency/48/star.png" alt="star" />
+                    <input type="number" min="1" max="5" name="rating" required>
+                </div>
+                <textarea name="review" id="comment" cols="50" rows="3" required></textarea>
+                <input id="input_movieId" type="hidden" name="movieId" value>
+                <button type="submit">
+                    Submit
+                </button>
+            </form>
+            {{/if}}
+            {{else}}
+            <div class = "notComment">
+                You need to <a href="/users/login">sign in</a> to rate this movie
+            </div>
+            {{/if}}
+        </div>
+
+        <div class="movie-related-films">
+            <div class="title">
+                RELATED FILMS
+            </div>
+            <div class="slider-container">
+                <div class="slider" id="slider2">
+                    {{#each relatedMovies}}
+                    <div class="slider-content rfilm-container">
+                        <a href="/movies/{{id}}"><img class="rfilm-img" src="{{posterUrl}}" alt="">
+                        </a>
+                        <div class="rfilm-title">
+                            <a href="#">{{title}}</a>
+                        </div>
+                        <div class="rflim-rating">
+                            <img width="15" height="15" src="https://img.icons8.com/fluency/48/star.png" alt="star" />
+                            {{score}}
+                            <img width="15" height="15" src="https://img.icons8.com/external-creatype-glyph-colourcreatype/64/40C057/external-arrow-miscellaneous-user-interface-v2-creatype-glyph-colourcreatype-2.png" alt="up" />
+                            {{positiveRate}}
+                        </div>
+                    </div>
+                    {{/each}}                  
+                    <button class="slider-button right-button" data-slider="slider2"><b>&rsaquo;</b></button>
+                    <button class="slider-button left-button" data-slider="slider2"><b>&lsaquo;</b></button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+<script src="/js/review.js"></script>

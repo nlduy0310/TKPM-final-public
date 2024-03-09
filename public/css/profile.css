@@ -1,0 +1,237 @@
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+
+
+
+
+main {
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    background-image: url('../images/dark-bg.jpg');
+    object-fit: cover;
+    object-position: center;
+    background-repeat: repeat;
+    display: flex;
+    flex-direction: column;
+}
+
+#main-container {
+    height: 100%;
+    margin: 0 calc(15%);
+    background: transparent;
+    display: flex;
+    padding-top: 150px;
+}
+
+* {
+    color: white;
+}
+
+/* COOK HERE */
+
+#table-content {
+    flex: 0.4;
+    position: sticky;
+    top: 90px;
+    margin-right: 30px;
+    padding: 10px 15px;
+    border-right: 4px solid slategray;
+    display: flex;
+    flex-direction: column;
+    height: 70px;
+}
+
+#contents {
+    flex: 0.6;
+    height: 100%;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    height: 1000px;
+}
+
+.name-content {
+    padding: 10px 15px;
+    animation-name: name-content;
+    background-color: #2c2c2c;
+    animation-duration: 1s;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 10px;
+}
+
+@keyframes name-content {
+    from {
+        background-color: transparent;
+        width: 50%;
+    }
+
+    to {
+        background-color: #2c2c2c;
+        width: 100%;
+    }
+}
+.info-container{
+    display: flex;
+    flex-direction: column;
+}
+.info-title{
+    margin-top: 20px;
+    margin-bottom: 15px;
+    font-size: 27px;
+    font-weight: 500;
+    border-left: 2.5px solid #2c2c2c;
+    margin-left: 40px;
+}
+
+#personal-info-form{
+    display: flex;
+    flex-direction: column;
+}
+
+#personal-info {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 350px 350px;
+    row-gap: 20px;
+    column-gap: 30px;
+    padding: 10px 40px;
+    animation-name: personal-info;
+    animation-duration: 1s;
+}
+
+@keyframes personal-info {
+    from {
+
+        width: 0;
+    }
+
+    to {
+        width: 100%;
+    }
+}
+
+.input-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-container input {
+    flex: 0.8;
+    background-color: #2c2c2c;
+    padding: 10px 15px;
+    border-radius: 5px;
+    outline: none;
+    font-size: 22px;
+    border: none;
+}
+
+.input-container input:focus {
+    border: none;
+}
+
+::placeholder {
+    color: white;
+    opacity: 0.8;
+    /* Firefox */
+}
+
+:-ms-input-placeholder {
+    /* Internet Explorer 10-11 */
+    color: white;
+}
+
+.input-container div{
+    flex: 0.2;
+    margin-top: 10px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    font-size: 22px;
+    padding-left: 5px;
+}
+
+::-ms-input-placeholder {
+    /* Microsoft Edge */
+    color: white;
+}
+
+.custom-select{
+    background-color: #2c2c2c;
+    font-size: 22px;
+    height: 100%;
+    border:0px;
+    outline:none;
+    border: none;
+    padding: 10px 15px;
+}
+
+.custom-select > option {
+    border-top-left-radius: 0;
+    border-top-right-radius:0;
+}
+
+.custom-select > option:last-child {
+    border-top-left-radius: 10px;
+    border-top-right-radius:10px;
+}
+
+#submit-info-btn{
+    margin-top: 25px;
+    width: 200px;
+    height: 60px;
+    background-color: #2c2c2c;
+    font-size: 22px;
+    align-self: flex-end;
+    border: none;
+    border-radius: 10px;
+    margin-right: 100px;
+    
+}
+
+#submit-info-btn:hover{
+    animation: submit-info-btn .3s;
+    background-image: url('/images/dark-bg.jpg');
+    background-size: 100%;
+}
+
+@keyframes submit-info-btn {
+    from {
+        background-image: url('/images/dark-bg.jpg');
+        background-size: 0;
+        
+    }
+    to {
+        background-image: url('/images/dark-bg.jpg');
+        background-size: 100%;
+    }
+}
+#fav-genres{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 350px 350px;
+    row-gap: 20px;
+    column-gap: 30px;
+    padding: 10px 40px;
+    animation-name: personal-info;
+    animation-duration: 1s;
+
+}
+
